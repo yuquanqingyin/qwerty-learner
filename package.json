@@ -61,6 +61,7 @@
     "dev": "vite",
     "start": "vite",
     "build": "cross-env CI=false vite build --base=./",
+    "package:local": "npm run build && powershell -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/package-local.ps1",
     "test": "echo \"No tests\"",
     "test:e2e": "playwright test",
     "lint": "eslint .",
