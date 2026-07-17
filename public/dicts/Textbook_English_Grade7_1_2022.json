@@ -1,0 +1,4810 @@
+[
+  {
+    "name": "let",
+    "trans": [
+      "v.让；允许"
+    ],
+    "usphone": "let",
+    "ukphone": "let"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "v.成为；是；在；等于"
+    ],
+    "usphone": "bi;biː",
+    "ukphone": "bi;biː"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "n.朋友"
+    ],
+    "usphone": "frend",
+    "ukphone": "frend"
+  },
+  {
+    "name": "hello",
+    "trans": [
+      "excl.你好，喂"
+    ],
+    "usphone": "həˈləʊ",
+    "ukphone": "həˈləʊ"
+  },
+  {
+    "name": "nice",
+    "trans": [
+      "adj.令人愉快的；友好的"
+    ],
+    "usphone": "naɪs",
+    "ukphone": "naɪs"
+  },
+  {
+    "name": "to",
+    "trans": [
+      "inf.m.(表示想做的事)；(表示目的或意图)；(表示结果或原因)；prep.向；到"
+    ],
+    "usphone": "tuː",
+    "ukphone": "tuː"
+  },
+  {
+    "name": "meet",
+    "trans": [
+      "v.结识；遇见"
+    ],
+    "usphone": "miːt",
+    "ukphone": "miːt"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "pron.你；你们"
+    ],
+    "usphone": "juː",
+    "ukphone": "juː"
+  },
+  {
+    "name": "too",
+    "trans": [
+      "adv.也；太；非常"
+    ],
+    "usphone": "tuː",
+    "ukphone": "tuː"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "adj.令人愉快的；好的；擅长的；对……有好处；完全的"
+    ],
+    "usphone": "gʊd",
+    "ukphone": "gʊd"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "n.上午"
+    ],
+    "usphone": "ˈmɔːrnɪŋ",
+    "ukphone": "ˈmɔːnɪŋ"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "pron.我"
+    ],
+    "usphone": "aɪ",
+    "ukphone": "aɪ"
+  },
+  {
+    "name": "fine",
+    "trans": [
+      "adj.身体好的，健康的；很好；v.对……处以罚款；n.罚款"
+    ],
+    "usphone": "faɪn",
+    "ukphone": "faɪn"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "adv.怎样；多少，多么"
+    ],
+    "usphone": "haʊ",
+    "ukphone": "haʊ"
+  },
+  {
+    "name": "do",
+    "trans": [
+      "aux.(用于实义动词前构成否定句和疑问句)；v.做；从事(职业)；进行(活动)"
+    ],
+    "usphone": "duː",
+    "ukphone": "duː"
+  },
+  {
+    "name": "like",
+    "trans": [
+      "v.喜欢；想要；prep.像；……怎么样；像……一样"
+    ],
+    "usphone": "laɪk",
+    "ukphone": "laɪk"
+  },
+  {
+    "name": "science",
+    "trans": [
+      "n.科学"
+    ],
+    "usphone": "ˈsaɪəns",
+    "ukphone": "ˈsaɪəns"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "det.我的"
+    ],
+    "usphone": "maɪ",
+    "ukphone": "maɪ"
+  },
+  {
+    "name": "name",
+    "trans": [
+      "n.名字；v.给……取名"
+    ],
+    "usphone": "neɪm",
+    "ukphone": "neɪm"
+  },
+  {
+    "name": "read",
+    "trans": [
+      "v.阅读；朗读；读到"
+    ],
+    "usphone": "riːd",
+    "ukphone": "riːd"
+  },
+  {
+    "name": "love",
+    "trans": [
+      "v.，n.喜爱；爱"
+    ],
+    "usphone": "lʌv",
+    "ukphone": "lʌv"
+  },
+  {
+    "name": "hike",
+    "trans": [
+      "v.远足；徒步旅行"
+    ],
+    "usphone": "haɪk",
+    "ukphone": "haɪk"
+  },
+  {
+    "name": "enjoy",
+    "trans": [
+      "v.享受……的乐趣；喜爱；欣赏"
+    ],
+    "usphone": "ɪnˈdʒɔɪ",
+    "ukphone": "ɪnˈdʒɔɪ"
+  },
+  {
+    "name": "play",
+    "trans": [
+      "v.参加比赛；玩耍；演奏；n.戏剧"
+    ],
+    "usphone": "pleɪ",
+    "ukphone": "pleɪ"
+  },
+  {
+    "name": "football",
+    "trans": [
+      "n.足球运动；足球"
+    ],
+    "usphone": "ˈfʊtbɔːl",
+    "ukphone": "ˈfʊtbɔːl"
+  },
+  {
+    "name": "sing",
+    "trans": [
+      "v.唱(歌)"
+    ],
+    "usphone": "sɪŋ",
+    "ukphone": "sɪŋ"
+  },
+  {
+    "name": "Miss",
+    "trans": [
+      "n.小姐；女士"
+    ],
+    "usphone": "mɪs",
+    "ukphone": "mɪs"
+  },
+  {
+    "name": "what",
+    "trans": [
+      "pron.，det.什么；无论什么；多么"
+    ],
+    "usphone": "wʌt",
+    "ukphone": "wɒt"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "det.你的；你们的"
+    ],
+    "usphone": "jʊr",
+    "ukphone": "jɔː(r)"
+  },
+  {
+    "name": "please",
+    "trans": [
+      "excl.请；太好了"
+    ],
+    "usphone": "pliːz",
+    "ukphone": "pliːz"
+  },
+  {
+    "name": "dance",
+    "trans": [
+      "v.跳舞"
+    ],
+    "usphone": "dæns",
+    "ukphone": "dɑːns"
+  },
+  {
+    "name": "eleven",
+    "trans": [
+      "num.十一"
+    ],
+    "usphone": "ɪˈlevn",
+    "ukphone": "ɪˈlevn"
+  },
+  {
+    "name": "twelve",
+    "trans": [
+      "num.十二"
+    ],
+    "usphone": "twelv",
+    "ukphone": "twelv"
+  },
+  {
+    "name": "thirteen",
+    "trans": [
+      "num.十三"
+    ],
+    "usphone": "ˌθɜːrˈtiːn",
+    "ukphone": "ˌθɜːˈtiːn"
+  },
+  {
+    "name": "fourteen",
+    "trans": [
+      "num.十四"
+    ],
+    "usphone": "ˌfɔːrˈtiːn",
+    "ukphone": "ˌfɔːˈtiːn"
+  },
+  {
+    "name": "fifteen",
+    "trans": [
+      "num.十五"
+    ],
+    "usphone": "ˌfɪfˈtiːn",
+    "ukphone": "ˌfɪfˈtiːn"
+  },
+  {
+    "name": "sixteen",
+    "trans": [
+      "num.十六"
+    ],
+    "usphone": "ˌsɪksˈtiːn",
+    "ukphone": "ˌsɪksˈtiːn"
+  },
+  {
+    "name": "seventeen",
+    "trans": [
+      "num.十七"
+    ],
+    "usphone": "ˌsevnˈtiːn",
+    "ukphone": "ˌsevnˈtiːn"
+  },
+  {
+    "name": "eighteen",
+    "trans": [
+      "num.十八"
+    ],
+    "usphone": "ˌeɪˈtiːn",
+    "ukphone": "ˌeɪˈtiːn"
+  },
+  {
+    "name": "nineteen",
+    "trans": [
+      "num.十九"
+    ],
+    "usphone": "ˌnaɪnˈtiːn",
+    "ukphone": "ˌnaɪnˈtiːn"
+  },
+  {
+    "name": "twenty",
+    "trans": [
+      "num.二十"
+    ],
+    "usphone": "ˈtwenti",
+    "ukphone": "ˈtwenti"
+  },
+  {
+    "name": "hi",
+    "trans": [
+      "excl.你好，嗨"
+    ],
+    "usphone": "haɪ",
+    "ukphone": "haɪ"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "pron.，det.这，这个"
+    ],
+    "usphone": "ðɪs",
+    "ukphone": "ðɪs"
+  },
+  {
+    "name": "where",
+    "trans": [
+      "adv.在哪里"
+    ],
+    "usphone": "wer",
+    "ukphone": "weə(r)"
+  },
+  {
+    "name": "from",
+    "trans": [
+      "prep.来自；离；始于；从"
+    ],
+    "usphone": "frʌm",
+    "ukphone": "frəm"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "conj.和；然后"
+    ],
+    "usphone": "ənd;ænd",
+    "ukphone": "ənd;ænd"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "prep.在……中；用；穿着"
+    ],
+    "usphone": "ɪn",
+    "ukphone": "ɪn"
+  },
+  {
+    "name": "class",
+    "trans": [
+      "n.班级；课；阶层"
+    ],
+    "usphone": "klæs",
+    "ukphone": "klɑːs"
+  },
+  {
+    "name": "grade",
+    "trans": [
+      "n.年级；成绩等级"
+    ],
+    "usphone": "greɪd",
+    "ukphone": "greɪd"
+  },
+  {
+    "name": "which",
+    "trans": [
+      "pron.，det.哪一个，哪一些"
+    ],
+    "usphone": "wɪtʃ",
+    "ukphone": "wɪtʃ"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "pron.我们；人们"
+    ],
+    "usphone": "wiː;wi",
+    "ukphone": "wiː;wi"
+  },
+  {
+    "name": "classmate",
+    "trans": [
+      "n.同班同学"
+    ],
+    "usphone": "ˈklæsmeɪt",
+    "ukphone": "ˈklɑːsmeɪt"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "adj.年纪；结识久的；老的"
+    ],
+    "usphone": "əʊld",
+    "ukphone": "əʊld"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "n.年龄；年；一年时间"
+    ],
+    "usphone": "jɪr",
+    "ukphone": "jɪə(r)"
+  },
+  {
+    "name": "see",
+    "trans": [
+      "v.看见；理解；看"
+    ],
+    "usphone": "siː",
+    "ukphone": "siː"
+  },
+  {
+    "name": "tall",
+    "trans": [
+      "adj.高的；身高"
+    ],
+    "usphone": "tɔːl",
+    "ukphone": "tɔːl"
+  },
+  {
+    "name": "friendly",
+    "trans": [
+      "adj.友好的；亲切的"
+    ],
+    "usphone": "ˈfrendli",
+    "ukphone": "ˈfrendli"
+  },
+  {
+    "name": "three",
+    "trans": [
+      "num.三"
+    ],
+    "usphone": "θriː",
+    "ukphone": "θriː"
+  },
+  {
+    "name": "seven",
+    "trans": [
+      "num.七"
+    ],
+    "usphone": "ˈsevn",
+    "ukphone": "ˈsevn"
+  },
+  {
+    "name": "kind",
+    "trans": [
+      "adj.友好的；n.种类"
+    ],
+    "usphone": "kaɪnd",
+    "ukphone": "kaɪnd"
+  },
+  {
+    "name": "draw",
+    "trans": [
+      "v.画，描绘"
+    ],
+    "usphone": "drɔː",
+    "ukphone": "drɔː"
+  },
+  {
+    "name": "short",
+    "trans": [
+      "adj.个子矮的；短暂的；短的"
+    ],
+    "usphone": "ʃɔːrt",
+    "ukphone": "ʃɔːt"
+  },
+  {
+    "name": "strong",
+    "trans": [
+      "adj.强壮的"
+    ],
+    "usphone": "strɔːŋ",
+    "ukphone": "strɒŋ"
+  },
+  {
+    "name": "thin",
+    "trans": [
+      "adj.瘦的；薄的"
+    ],
+    "usphone": "θɪn",
+    "ukphone": "θɪn"
+  },
+  {
+    "name": "run",
+    "trans": [
+      "v.跑步；跑"
+    ],
+    "usphone": "rʌn",
+    "ukphone": "rʌn"
+  },
+  {
+    "name": "cook",
+    "trans": [
+      "v.烹饪，烹调；n.厨师"
+    ],
+    "usphone": "kʊk",
+    "ukphone": "kʊk"
+  },
+  {
+    "name": "helpful",
+    "trans": [
+      "adj.愿意帮忙的；有帮助的"
+    ],
+    "usphone": "ˈhelpfl",
+    "ukphone": "ˈhelpfl"
+  },
+  {
+    "name": "quiet",
+    "trans": [
+      "adj.文静的；安静的"
+    ],
+    "usphone": "ˈkwaɪət",
+    "ukphone": "ˈkwaɪət"
+  },
+  {
+    "name": "all",
+    "trans": [
+      "det.，pron.所有，全部"
+    ],
+    "usphone": "ɔːl",
+    "ukphone": "ɔːl"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "v.需要；有必要；modalv.，n.需要"
+    ],
+    "usphone": "niːd",
+    "ukphone": "niːd"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "modalv.可以；能，会"
+    ],
+    "usphone": "kən;kæn",
+    "ukphone": "kən;kæn"
+  },
+  {
+    "name": "young",
+    "trans": [
+      "adj.年轻的；幼小的；青年的"
+    ],
+    "usphone": "jʌŋ",
+    "ukphone": "jʌŋ"
+  },
+  {
+    "name": "together",
+    "trans": [
+      "adv.在一起；共同"
+    ],
+    "usphone": "təˈgeðə(r)",
+    "ukphone": "təˈgeðə(r)"
+  },
+  {
+    "name": "help",
+    "trans": [
+      "v.，n.帮助"
+    ],
+    "usphone": "help",
+    "ukphone": "help"
+  },
+  {
+    "name": "each",
+    "trans": [
+      "pron.，det.各个，每个"
+    ],
+    "usphone": "iːtʃ",
+    "ukphone": "iːtʃ"
+  },
+  {
+    "name": "other",
+    "trans": [
+      "pron.，adj.另外；另一个"
+    ],
+    "usphone": "ˈʌðə(r)",
+    "ukphone": "ˈʌðə(r)"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "pron.他"
+    ],
+    "usphone": "hi;hiː",
+    "ukphone": "hi;hiː"
+  },
+  {
+    "name": "often",
+    "trans": [
+      "adv.时常；往往"
+    ],
+    "usphone": "ˈɔːfn",
+    "ukphone": "ˈɒfn"
+  },
+  {
+    "name": "who",
+    "trans": [
+      "pron.谁"
+    ],
+    "usphone": "huː",
+    "ukphone": "huː"
+  },
+  {
+    "name": "best",
+    "trans": [
+      "adj.最好的；adv.最；n.最好的事物(或人)；最高标准"
+    ],
+    "usphone": "best",
+    "ukphone": "best"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "pron.她"
+    ],
+    "usphone": "ʃi;ʃiː",
+    "ukphone": "ʃi;ʃiː"
+  },
+  {
+    "name": "six",
+    "trans": [
+      "num.六"
+    ],
+    "usphone": "sɪks",
+    "ukphone": "sɪks"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "adv.(给某人东西或指出某物时说)；在这里"
+    ],
+    "usphone": "hɪr",
+    "ukphone": "hɪə(r)"
+  },
+  {
+    "name": "cute",
+    "trans": [
+      "adj.可爱的；漂亮迷人的"
+    ],
+    "usphone": "kjuːt",
+    "ukphone": "kjuːt"
+  },
+  {
+    "name": "the",
+    "trans": [
+      "art.(用以泛指)；(解说时用)"
+    ],
+    "usphone": "ðiː;ðə",
+    "ukphone": "ðiː;ðə"
+  },
+  {
+    "name": "guitar",
+    "trans": [
+      "n.吉他"
+    ],
+    "usphone": "gɪˈtɑː(r)",
+    "ukphone": "gɪˈtɑː(r)"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "adj.初来乍到的；不熟悉的；新的；有别于从前的"
+    ],
+    "usphone": "nuː",
+    "ukphone": "njuː"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "adv.很，非常"
+    ],
+    "usphone": "ˈveri",
+    "ukphone": "ˈveri"
+  },
+  {
+    "name": "happy",
+    "trans": [
+      "adj.高兴的；幸福的；(表示祝愿)；乐意(做某事)"
+    ],
+    "usphone": "ˈhæpi",
+    "ukphone": "ˈhæpi"
+  },
+  {
+    "name": "at",
+    "trans": [
+      "prep.在(某处)；在(某时间)；在(表示学习或工作地点)；在……方面；向"
+    ],
+    "usphone": "æt",
+    "ukphone": "æt"
+  },
+  {
+    "name": "school",
+    "trans": [
+      "n.学校；上学；上课时间"
+    ],
+    "usphone": "skuːl",
+    "ukphone": "skuːl"
+  },
+  {
+    "name": "music",
+    "trans": [
+      "n.音乐；音乐创作"
+    ],
+    "usphone": "ˈmjuːzɪk",
+    "ukphone": "ˈmjuːzɪk"
+  },
+  {
+    "name": "have",
+    "trans": [
+      "v.有；吃；经历"
+    ],
+    "usphone": "hæv",
+    "ukphone": "hæv"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "pron.他们；她们；它们"
+    ],
+    "usphone": "ðeɪ",
+    "ukphone": "ðeɪ"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "pron.它"
+    ],
+    "usphone": "ɪt",
+    "ukphone": "ɪt"
+  },
+  {
+    "name": "a",
+    "trans": [
+      "art.一(人、事、物)；(表示为某一群体或职业中的一员)；任何一，每一"
+    ],
+    "usphone": "ə;eɪ",
+    "ukphone": "ə;eɪ"
+  },
+  {
+    "name": "dog",
+    "trans": [
+      "n.狗"
+    ],
+    "usphone": "dɔːg",
+    "ukphone": "dɒg"
+  },
+  {
+    "name": "two",
+    "trans": [
+      "num.二"
+    ],
+    "usphone": "tuː",
+    "ukphone": "tuː"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "adj.大的；年纪较长的；大受欢迎的"
+    ],
+    "usphone": "bɪg",
+    "ukphone": "bɪg"
+  },
+  {
+    "name": "ear",
+    "trans": [
+      "n.耳；耳朵"
+    ],
+    "usphone": "ɪr",
+    "ukphone": "ɪə(r)"
+  },
+  {
+    "name": "cat",
+    "trans": [
+      "n.猫"
+    ],
+    "usphone": "kæt",
+    "ukphone": "kæt"
+  },
+  {
+    "name": "little",
+    "trans": [
+      "adj.小的；年幼的；可怜的；det.，pron.不多的；少量的"
+    ],
+    "usphone": "ˈlɪtl",
+    "ukphone": "ˈlɪtl"
+  },
+  {
+    "name": "black",
+    "trans": [
+      "adj.黑色的；n.黑色"
+    ],
+    "usphone": "blæk",
+    "ukphone": "blæk"
+  },
+  {
+    "name": "one",
+    "trans": [
+      "num.，det.一；一个；pron.其中的一个人(或事物)"
+    ],
+    "usphone": "wʌn",
+    "ukphone": "wʌn"
+  },
+  {
+    "name": "listen",
+    "trans": [
+      "v.听"
+    ],
+    "usphone": "ˈlɪsn",
+    "ukphone": "ˈlɪsn"
+  },
+  {
+    "name": "lovely",
+    "trans": [
+      "adj.美丽的；迷人的"
+    ],
+    "usphone": "ˈlʌvli",
+    "ukphone": "ˈlʌvli"
+  },
+  {
+    "name": "brother",
+    "trans": [
+      "n.哥哥；弟弟"
+    ],
+    "usphone": "ˈbrʌðə(r)",
+    "ukphone": "ˈbrʌðə(r)"
+  },
+  {
+    "name": "yes",
+    "trans": [
+      "excl.(答话时表示正确或真实)；(表示同意所说的话)；(接受提议或邀请)"
+    ],
+    "usphone": "jes",
+    "ukphone": "jes"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "det.，pron.那，那个"
+    ],
+    "usphone": "ðæt",
+    "ukphone": "ðæt"
+  },
+  {
+    "name": "boy",
+    "trans": [
+      "n.男孩"
+    ],
+    "usphone": "bɔɪ",
+    "ukphone": "bɔɪ"
+  },
+  {
+    "name": "our",
+    "trans": [
+      "det.我们的"
+    ],
+    "usphone": "ɑː(r);ˈaʊə(r)",
+    "ukphone": "ɑː(r);ˈaʊə(r)"
+  },
+  {
+    "name": "no",
+    "trans": [
+      "excl.不；没有；不是；det.没有；不准"
+    ],
+    "usphone": "nəʊ",
+    "ukphone": "nəʊ"
+  },
+  {
+    "name": "not",
+    "trans": [
+      "adv.不，没有"
+    ],
+    "usphone": "nɑːt",
+    "ukphone": "nɒt"
+  },
+  {
+    "name": "yourself",
+    "trans": [
+      "pron.你自己"
+    ],
+    "usphone": "jɔːrˈself",
+    "ukphone": "jɔːˈself"
+  },
+  {
+    "name": "age",
+    "trans": [
+      "n.年龄；时代"
+    ],
+    "usphone": "eɪdʒ",
+    "ukphone": "eɪdʒ"
+  },
+  {
+    "name": "swim",
+    "trans": [
+      "v.游泳；游动"
+    ],
+    "usphone": "swɪm",
+    "ukphone": "swɪm"
+  },
+  {
+    "name": "girl",
+    "trans": [
+      "n.女孩"
+    ],
+    "usphone": "gɜːrl",
+    "ukphone": "gɜːl"
+  },
+  {
+    "name": "everyone",
+    "trans": [
+      "pron.每人"
+    ],
+    "usphone": "ˈevriwʌn",
+    "ukphone": "ˈevriwʌn"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "det.她的；pron.她"
+    ],
+    "usphone": "hə(r);hɜː(r)",
+    "ukphone": "hə(r);hɜː(r)"
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "adj.美丽的；美好的"
+    ],
+    "usphone": "ˈbjuːtɪfl",
+    "ukphone": "ˈbjuːtɪfl"
+  },
+  {
+    "name": "picture",
+    "trans": [
+      "n.图画；照片；v.想象"
+    ],
+    "usphone": "ˈpɪktʃə(r)",
+    "ukphone": "ˈpɪktʃə(r)"
+  },
+  {
+    "name": "book",
+    "trans": [
+      "n.书；v.预约，预订"
+    ],
+    "usphone": "bʊk",
+    "ukphone": "bʊk"
+  },
+  {
+    "name": "also",
+    "trans": [
+      "adv.也；而且"
+    ],
+    "usphone": "ˈɔːlsəʊ",
+    "ukphone": "ˈɔːlsəʊ"
+  },
+  {
+    "name": "many",
+    "trans": [
+      "det.，pron.许多"
+    ],
+    "usphone": "ˈmeni",
+    "ukphone": "ˈmeni"
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "n.事件；东西"
+    ],
+    "usphone": "θɪŋ",
+    "ukphone": "θɪŋ"
+  },
+  {
+    "name": "such",
+    "trans": [
+      "det.，pron.这样；这样的，那样的"
+    ],
+    "usphone": "sʌtʃ",
+    "ukphone": "sʌtʃ"
+  },
+  {
+    "name": "as",
+    "trans": [
+      "prep.像；作为；adv.如同"
+    ],
+    "usphone": "əz;æz",
+    "ukphone": "əz;æz"
+  },
+  {
+    "name": "great",
+    "trans": [
+      "adj.(强调某种情况)；好极的；优秀的"
+    ],
+    "usphone": "greɪt",
+    "ukphone": "greɪt"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "n.时间；一段时间；次；时刻"
+    ],
+    "usphone": "taɪm",
+    "ukphone": "taɪm"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "prep.和；有；用"
+    ],
+    "usphone": "wɪð;wɪθ",
+    "ukphone": "wɪð;wɪθ"
+  },
+  {
+    "name": "know",
+    "trans": [
+      "v.知道；认识"
+    ],
+    "usphone": "nəʊ",
+    "ukphone": "nəʊ"
+  },
+  {
+    "name": "card",
+    "trans": [
+      "n.卡片纸；贺卡"
+    ],
+    "usphone": "kɑːrd",
+    "ukphone": "kɑːd"
+  },
+  {
+    "name": "talk",
+    "trans": [
+      "v.说话；讨论"
+    ],
+    "usphone": "tɔːk",
+    "ukphone": "tɔːk"
+  },
+  {
+    "name": "much",
+    "trans": [
+      "adv.非常；十分；很；det.，pron.许多，大量"
+    ],
+    "usphone": "mʌtʃ",
+    "ukphone": "mʌtʃ"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "conj.相反；然而"
+    ],
+    "usphone": "bət;bʌt",
+    "ukphone": "bət;bʌt"
+  },
+  {
+    "name": "really",
+    "trans": [
+      "adv.(加强形容词或副词的语气)；确实；真正地"
+    ],
+    "usphone": "ˈriːəli;ˈrɪəli",
+    "ukphone": "ˈriːəli;ˈrɪəli"
+  },
+  {
+    "name": "different",
+    "trans": [
+      "adj.不同的；各种的"
+    ],
+    "usphone": "ˈdɪfrənt",
+    "ukphone": "ˈdɪfrənt"
+  },
+  {
+    "name": "Mr",
+    "trans": [
+      "abbr.先生"
+    ],
+    "usphone": "ˈmɪstə(r)",
+    "ukphone": "ˈmɪstə(r)"
+  },
+  {
+    "name": "four",
+    "trans": [
+      "num.四"
+    ],
+    "usphone": "fɔː(r)",
+    "ukphone": "fɔː(r)"
+  },
+  {
+    "name": "family",
+    "trans": [
+      "n.家庭；亲属"
+    ],
+    "usphone": "ˈfæməli",
+    "ukphone": "ˈfæməli"
+  },
+  {
+    "name": "grandfather",
+    "trans": [
+      "n.(外)祖父"
+    ],
+    "usphone": "ˈgrænfɑːðə(r)",
+    "ukphone": "ˈgrænfɑːðə(r)"
+  },
+  {
+    "name": "grandmother",
+    "trans": [
+      "n.(外)祖母"
+    ],
+    "usphone": "ˈgrænmʌðə(r)",
+    "ukphone": "ˈgrænmʌðə(r)"
+  },
+  {
+    "name": "father",
+    "trans": [
+      "n.父亲；先驱"
+    ],
+    "usphone": "ˈfɑːðə(r)",
+    "ukphone": "ˈfɑːðə(r)"
+  },
+  {
+    "name": "mother",
+    "trans": [
+      "n.母亲，妈妈"
+    ],
+    "usphone": "ˈmʌðə(r)",
+    "ukphone": "ˈmʌðə(r)"
+  },
+  {
+    "name": "uncle",
+    "trans": [
+      "n.叔；伯；舅；姑父；姨父"
+    ],
+    "usphone": "ˈʌŋkl",
+    "ukphone": "ˈʌŋkl"
+  },
+  {
+    "name": "aunt",
+    "trans": [
+      "n.姑母；姨母；伯母；婶母；舅母"
+    ],
+    "usphone": "ænt",
+    "ukphone": "ɑːnt"
+  },
+  {
+    "name": "sister",
+    "trans": [
+      "n.姐姐；妹妹"
+    ],
+    "usphone": "ˈsɪstə(r)",
+    "ukphone": "ˈsɪstə(r)"
+  },
+  {
+    "name": "cousin",
+    "trans": [
+      "n.同辈表亲(或堂亲)"
+    ],
+    "usphone": "ˈkʌzn",
+    "ukphone": "ˈkʌzn"
+  },
+  {
+    "name": "student",
+    "trans": [
+      "n.学生"
+    ],
+    "usphone": "ˈstuːdnt",
+    "ukphone": "ˈstjuːdnt"
+  },
+  {
+    "name": "teacher",
+    "trans": [
+      "n.教师"
+    ],
+    "usphone": "ˈtiːtʃə(r)",
+    "ukphone": "ˈtiːtʃə(r)"
+  },
+  {
+    "name": "man",
+    "trans": [
+      "n.成年男子；人类"
+    ],
+    "usphone": "mæn",
+    "ukphone": "mæn"
+  },
+  {
+    "name": "always",
+    "trans": [
+      "adv.总是，一直"
+    ],
+    "usphone": "ˈɔːlweɪz",
+    "ukphone": "ˈɔːlweɪz"
+  },
+  {
+    "name": "wear",
+    "trans": [
+      "v.穿；戴"
+    ],
+    "usphone": "wer",
+    "ukphone": "weə(r)"
+  },
+  {
+    "name": "tie",
+    "trans": [
+      "n.领带；v.系；捆绑；打结"
+    ],
+    "usphone": "taɪ",
+    "ukphone": "taɪ"
+  },
+  {
+    "name": "worker",
+    "trans": [
+      "n.工人；工作者"
+    ],
+    "usphone": "ˈwɜːrkər",
+    "ukphone": "ˈwɜːkə(r)"
+  },
+  {
+    "name": "doctor",
+    "trans": [
+      "n.医生"
+    ],
+    "usphone": "ˈdɑːktər",
+    "ukphone": "ˈdɒktə(r)"
+  },
+  {
+    "name": "nurse",
+    "trans": [
+      "n.护士"
+    ],
+    "usphone": "nɜːrs",
+    "ukphone": "nɜːs"
+  },
+  {
+    "name": "white",
+    "trans": [
+      "adj.白色的；n.白色"
+    ],
+    "usphone": "waɪt",
+    "ukphone": "waɪt"
+  },
+  {
+    "name": "shirt",
+    "trans": [
+      "n.衬衫"
+    ],
+    "usphone": "ʃɜːrt",
+    "ukphone": "ʃɜːt"
+  },
+  {
+    "name": "bus",
+    "trans": [
+      "n.公共汽车"
+    ],
+    "usphone": "bʌs",
+    "ukphone": "bʌs"
+  },
+  {
+    "name": "driver",
+    "trans": [
+      "n.司机"
+    ],
+    "usphone": "ˈdraɪvə(r)",
+    "ukphone": "ˈdraɪvə(r)"
+  },
+  {
+    "name": "woman",
+    "trans": [
+      "n.妇女；女性"
+    ],
+    "usphone": "ˈwʊmən",
+    "ukphone": "ˈwʊmən"
+  },
+  {
+    "name": "blue",
+    "trans": [
+      "adj.蓝色的；n.蓝色"
+    ],
+    "usphone": "bluː",
+    "ukphone": "bluː"
+  },
+  {
+    "name": "dress",
+    "trans": [
+      "n.连衣裙"
+    ],
+    "usphone": "dres",
+    "ukphone": "dres"
+  },
+  {
+    "name": "policewoman",
+    "trans": [
+      "n.女警察"
+    ],
+    "usphone": "pəˈliːswʊmən",
+    "ukphone": "pəˈliːswʊmən"
+  },
+  {
+    "name": "yellow",
+    "trans": [
+      "adj.黄色的；n.黄色"
+    ],
+    "usphone": "ˈjeləʊ",
+    "ukphone": "ˈjeləʊ"
+  },
+  {
+    "name": "child",
+    "trans": [
+      "n.儿子，女儿；儿童，小孩"
+    ],
+    "usphone": "tʃaɪld",
+    "ukphone": "tʃaɪld"
+  },
+  {
+    "name": "pink",
+    "trans": [
+      "adj.粉红色的；n.粉红色"
+    ],
+    "usphone": "pɪŋk",
+    "ukphone": "pɪŋk"
+  },
+  {
+    "name": "toy",
+    "trans": [
+      "n.玩具"
+    ],
+    "usphone": "tɔɪ",
+    "ukphone": "tɔɪ"
+  },
+  {
+    "name": "rabbit",
+    "trans": [
+      "n.兔"
+    ],
+    "usphone": "ˈræbɪt",
+    "ukphone": "ˈræbɪt"
+  },
+  {
+    "name": "factory",
+    "trans": [
+      "n.工厂"
+    ],
+    "usphone": "ˈfæktri;ˈfæktəri",
+    "ukphone": "ˈfæktri;ˈfæktəri"
+  },
+  {
+    "name": "hospital",
+    "trans": [
+      "n.医院"
+    ],
+    "usphone": "ˈhɑːspɪtl",
+    "ukphone": "ˈhɒspɪtl"
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "n.餐馆；餐厅"
+    ],
+    "usphone": "ˈrestrɑːnt",
+    "ukphone": "ˈrestrɒnt"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "v.从事……工作；运转；n.工作；作品"
+    ],
+    "usphone": "wɜːrk",
+    "ukphone": "wɜːk"
+  },
+  {
+    "name": "people",
+    "trans": [
+      "n.(pl.)人；人们；国民"
+    ],
+    "usphone": "ˈpiːpl",
+    "ukphone": "ˈpiːpl"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "adv.(表示存在或发生)；在那里"
+    ],
+    "usphone": "ðer",
+    "ukphone": "ðeə(r)"
+  },
+  {
+    "name": "photo",
+    "trans": [
+      "n.照片"
+    ],
+    "usphone": "ˈfəʊtəʊ",
+    "ukphone": "ˈfəʊtəʊ"
+  },
+  {
+    "name": "of",
+    "trans": [
+      "prep.属于……的；关于(某人)"
+    ],
+    "usphone": "ʌv",
+    "ukphone": "əv"
+  },
+  {
+    "name": "PE",
+    "trans": [
+      "n.体育(课)"
+    ],
+    "usphone": "ˌpiːˈiː",
+    "ukphone": "ˌpiːˈiː"
+  },
+  {
+    "name": "teach",
+    "trans": [
+      "v.教授；教导；教"
+    ],
+    "usphone": "tiːtʃ",
+    "ukphone": "tiːtʃ"
+  },
+  {
+    "name": "us",
+    "trans": [
+      "pron.我们"
+    ],
+    "usphone": "ʌs;əs",
+    "ukphone": "ʌs;əs"
+  },
+  {
+    "name": "eight",
+    "trans": [
+      "num.八"
+    ],
+    "usphone": "eɪt",
+    "ukphone": "eɪt"
+  },
+  {
+    "name": "so",
+    "trans": [
+      "adv.如此，极；那么；这样；conj.所以"
+    ],
+    "usphone": "səʊ",
+    "ukphone": "səʊ"
+  },
+  {
+    "name": "pretty",
+    "trans": [
+      "adj.漂亮的；美观的；adv.相当；非常"
+    ],
+    "usphone": "ˈprɪti",
+    "ukphone": "ˈprɪti"
+  },
+  {
+    "name": "only",
+    "trans": [
+      "adv.只有；仅；只不过；adj.仅有的；最适当的"
+    ],
+    "usphone": "ˈəʊnli",
+    "ukphone": "ˈəʊnli"
+  },
+  {
+    "name": "busy",
+    "trans": [
+      "adj.忙碌的；全身心忙于某事"
+    ],
+    "usphone": "ˈbɪzi",
+    "ukphone": "ˈbɪzi"
+  },
+  {
+    "name": "on",
+    "trans": [
+      "prep.在(某一天)；在……上；通过；关于"
+    ],
+    "usphone": "ɑːn",
+    "ukphone": "ɒn"
+  },
+  {
+    "name": "Saturday",
+    "trans": [
+      "n.星期六"
+    ],
+    "usphone": "ˈsætərdeɪ",
+    "ukphone": "ˈsætədeɪ"
+  },
+  {
+    "name": "basketball",
+    "trans": [
+      "n.篮球运动；篮球"
+    ],
+    "usphone": "ˈbæskɪtbɔːl",
+    "ukphone": "ˈbɑːskɪtbɔːl"
+  },
+  {
+    "name": "noon",
+    "trans": [
+      "n.正午，中午"
+    ],
+    "usphone": "nuːn",
+    "ukphone": "nuːn"
+  },
+  {
+    "name": "afternoon",
+    "trans": [
+      "n.下午"
+    ],
+    "usphone": "ˌæftərˈnuːn",
+    "ukphone": "ˌɑːftəˈnuːn"
+  },
+  {
+    "name": "parent",
+    "trans": [
+      "n.父亲；母亲"
+    ],
+    "usphone": "ˈperənt",
+    "ukphone": "ˈpeərənt"
+  },
+  {
+    "name": "visit",
+    "trans": [
+      "v.访问；参观"
+    ],
+    "usphone": "ˈvɪzɪt",
+    "ukphone": "ˈvɪzɪt"
+  },
+  {
+    "name": "grandparent",
+    "trans": [
+      "n.祖父；祖母；外祖父；外祖母"
+    ],
+    "usphone": "ˈgrænperənt",
+    "ukphone": "ˈgrænpeərənt"
+  },
+  {
+    "name": "eat",
+    "trans": [
+      "v.吃饭；吃"
+    ],
+    "usphone": "iːt",
+    "ukphone": "iːt"
+  },
+  {
+    "name": "watch",
+    "trans": [
+      "v.观看；关注"
+    ],
+    "usphone": "wɑːtʃ",
+    "ukphone": "wɒtʃ"
+  },
+  {
+    "name": "TV",
+    "trans": [
+      "n.电视"
+    ],
+    "usphone": "ˌtiːˈviː",
+    "ukphone": "ˌtiːˈviː"
+  },
+  {
+    "name": "chore",
+    "trans": [
+      "n.日常事务；例行工作"
+    ],
+    "usphone": "tʃɔː(r)",
+    "ukphone": "tʃɔː(r)"
+  },
+  {
+    "name": "go",
+    "trans": [
+      "v.去；出发；去从事"
+    ],
+    "usphone": "gəʊ",
+    "ukphone": "gəʊ"
+  },
+  {
+    "name": "park",
+    "trans": [
+      "n.公园；v.停(车)"
+    ],
+    "usphone": "pɑːrk",
+    "ukphone": "pɑːk"
+  },
+  {
+    "name": "shop",
+    "trans": [
+      "v.去商店买；n.商店"
+    ],
+    "usphone": "ʃɑːp",
+    "ukphone": "ʃɒp"
+  },
+  {
+    "name": "walk",
+    "trans": [
+      "v.遛；步行；n.散步"
+    ],
+    "usphone": "wɔːk",
+    "ukphone": "wɔːk"
+  },
+  {
+    "name": "live",
+    "trans": [
+      "v.居住；生活"
+    ],
+    "usphone": "lɪv",
+    "ukphone": "lɪv"
+  },
+  {
+    "name": "small",
+    "trans": [
+      "adj.小的；年幼的"
+    ],
+    "usphone": "smɔːl",
+    "ukphone": "smɔːl"
+  },
+  {
+    "name": "his",
+    "trans": [
+      "det.，pron.他的"
+    ],
+    "usphone": "hɪz",
+    "ukphone": "hɪz"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "pron.他"
+    ],
+    "usphone": "hɪm",
+    "ukphone": "hɪm"
+  },
+  {
+    "name": "some",
+    "trans": [
+      "det.一些；某些；pron.有些人，有些事物"
+    ],
+    "usphone": "sʌm",
+    "ukphone": "sʌm"
+  },
+  {
+    "name": "most",
+    "trans": [
+      "det.，pron.大多数；adv.最"
+    ],
+    "usphone": "məʊst",
+    "ukphone": "məʊst"
+  },
+  {
+    "name": "their",
+    "trans": [
+      "det.他们的；她们的；它们的"
+    ],
+    "usphone": "ðer",
+    "ukphone": "ðeə(r)"
+  },
+  {
+    "name": "text",
+    "trans": [
+      "n.文章；文本，正文；课本"
+    ],
+    "usphone": "tekst",
+    "ukphone": "tekst"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "prep.关于；adv.大约"
+    ],
+    "usphone": "əˈbaʊt",
+    "ukphone": "əˈbaʊt"
+  },
+  {
+    "name": "tree",
+    "trans": [
+      "n.树木"
+    ],
+    "usphone": "triː",
+    "ukphone": "triː"
+  },
+  {
+    "name": "show",
+    "trans": [
+      "v.展示；教；表明；n.(电视或广播)节目"
+    ],
+    "usphone": "ʃəʊ",
+    "ukphone": "ʃəʊ"
+  },
+  {
+    "name": "after",
+    "trans": [
+      "prep.，conj.在……后"
+    ],
+    "usphone": "ˈæftər",
+    "ukphone": "ˈɑːftə(r)"
+  },
+  {
+    "name": "them",
+    "trans": [
+      "pron.他们；她们；它们"
+    ],
+    "usphone": "ðem;ðəm",
+    "ukphone": "ðem;ðəm"
+  },
+  {
+    "name": "weekend",
+    "trans": [
+      "n.周末"
+    ],
+    "usphone": "ˈwiːkend",
+    "ukphone": "ˌwiːkˈend"
+  },
+  {
+    "name": "dinner",
+    "trans": [
+      "n.正餐，主餐"
+    ],
+    "usphone": "ˈdɪnə(r)",
+    "ukphone": "ˈdɪnə(r)"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "pron.某事；某物"
+    ],
+    "usphone": "ˈsʌmθɪŋ",
+    "ukphone": "ˈsʌmθɪŋ"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "prep.为得到；给；为了；(表示目的或功能)；因为"
+    ],
+    "usphone": "fə(r);fɔː(r)",
+    "ukphone": "fə(r);fɔː(r)"
+  },
+  {
+    "name": "food",
+    "trans": [
+      "n.食物"
+    ],
+    "usphone": "fuːd",
+    "ukphone": "fuːd"
+  },
+  {
+    "name": "set",
+    "trans": [
+      "v.摆放餐具；设置；安排；n.电视机；一套；一组"
+    ],
+    "usphone": "set",
+    "ukphone": "set"
+  },
+  {
+    "name": "table",
+    "trans": [
+      "n.桌子；表"
+    ],
+    "usphone": "ˈteɪbl",
+    "ukphone": "ˈteɪbl"
+  },
+  {
+    "name": "clean",
+    "trans": [
+      "v.打扫；adj.干净的；清新的"
+    ],
+    "usphone": "kliːn",
+    "ukphone": "kliːn"
+  },
+  {
+    "name": "up",
+    "trans": [
+      "adv.，prep.彻底；向上"
+    ],
+    "usphone": "ʌp",
+    "ukphone": "ʌp"
+  },
+  {
+    "name": "job",
+    "trans": [
+      "n.工作"
+    ],
+    "usphone": "dʒɑːb",
+    "ukphone": "dʒɒb"
+  },
+  {
+    "name": "whose",
+    "trans": [
+      "det.，pron.谁的"
+    ],
+    "usphone": "huːz",
+    "ukphone": "huːz"
+  },
+  {
+    "name": "its",
+    "trans": [
+      "det.(指事物、动物或婴儿)它的，他的，她的"
+    ],
+    "usphone": "ɪts",
+    "ukphone": "ɪts"
+  },
+  {
+    "name": "Mrs",
+    "trans": [
+      "abbr.夫人"
+    ],
+    "usphone": "ˈmɪsɪz",
+    "ukphone": "ˈmɪsɪz"
+  },
+  {
+    "name": "son",
+    "trans": [
+      "n.儿子"
+    ],
+    "usphone": "sʌn",
+    "ukphone": "sʌn"
+  },
+  {
+    "name": "ride",
+    "trans": [
+      "v.骑；驾驶"
+    ],
+    "usphone": "raɪd",
+    "ukphone": "raɪd"
+  },
+  {
+    "name": "bike",
+    "trans": [
+      "n.自行车"
+    ],
+    "usphone": "baɪk",
+    "ukphone": "baɪk"
+  },
+  {
+    "name": "well",
+    "trans": [
+      "adv.好；n.井，水井"
+    ],
+    "usphone": "wel",
+    "ukphone": "wel"
+  },
+  {
+    "name": "or",
+    "trans": [
+      "conj.或者；或者说；否则"
+    ],
+    "usphone": "ɔː(r)",
+    "ukphone": "ɔː(r)"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "pron.(I的宾格)我"
+    ],
+    "usphone": "mi;miː",
+    "ukphone": "mi;miː"
+  },
+  {
+    "name": "tell",
+    "trans": [
+      "v.告诉；识别；说"
+    ],
+    "usphone": "tel",
+    "ukphone": "tel"
+  },
+  {
+    "name": "sport",
+    "trans": [
+      "n.体育运动"
+    ],
+    "usphone": "spɔːrt",
+    "ukphone": "spɔːt"
+  },
+  {
+    "name": "sometimes",
+    "trans": [
+      "adv.有时"
+    ],
+    "usphone": "ˈsʌmtaɪmz",
+    "ukphone": "ˈsʌmtaɪmz"
+  },
+  {
+    "name": "film",
+    "trans": [
+      "n.电影；影片"
+    ],
+    "usphone": "film",
+    "ukphone": "film"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "n.家；栖息地；adv.在家"
+    ],
+    "usphone": "həʊm",
+    "ukphone": "həʊm"
+  },
+  {
+    "name": "member",
+    "trans": [
+      "n.成员；会员"
+    ],
+    "usphone": "ˈmembə(r)",
+    "ukphone": "ˈmembə(r)"
+  },
+  {
+    "name": "activity",
+    "trans": [
+      "n.活动"
+    ],
+    "usphone": "ækˈtɪvəti",
+    "ukphone": "ækˈtɪvəti"
+  },
+  {
+    "name": "maths",
+    "trans": [
+      "n.数学"
+    ],
+    "usphone": "mæθs",
+    "ukphone": "mæθs"
+  },
+  {
+    "name": "study",
+    "trans": [
+      "v.学习；n.学习；书房"
+    ],
+    "usphone": "ˈstʌdi",
+    "ukphone": "ˈstʌdi"
+  },
+  {
+    "name": "hard",
+    "trans": [
+      "adv.努力地；adj.难做的；艰难的；努力的"
+    ],
+    "usphone": "hɑːrd",
+    "ukphone": "hɑːd"
+  },
+  {
+    "name": "middle",
+    "trans": [
+      "adj.中间的；n.中间"
+    ],
+    "usphone": "ˈmɪdl",
+    "ukphone": "ˈmɪdl"
+  },
+  {
+    "name": "every",
+    "trans": [
+      "det.每一个；每逢"
+    ],
+    "usphone": "ˈevri",
+    "ukphone": "ˈevri"
+  },
+  {
+    "name": "day",
+    "trans": [
+      "n.一天；白天"
+    ],
+    "usphone": "deɪ",
+    "ukphone": "deɪ"
+  },
+  {
+    "name": "look",
+    "trans": [
+      "v.显得；看；好像是；n.看；相貌"
+    ],
+    "usphone": "lʊk",
+    "ukphone": "lʊk"
+  },
+  {
+    "name": "high",
+    "trans": [
+      "adj.高的；adv.高；在高处"
+    ],
+    "usphone": "haɪ",
+    "ukphone": "haɪ"
+  },
+  {
+    "name": "lot",
+    "trans": [
+      "adv.(与动词连用)非常；pron.，det.大量，许多"
+    ],
+    "usphone": "lɑːt",
+    "ukphone": "lɒt"
+  },
+  {
+    "name": "colourful",
+    "trans": [
+      "adj.丰富多彩的；五彩缤纷的"
+    ],
+    "usphone": "ˈkʌlərfl",
+    "ukphone": "ˈkʌləfl"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "n.生活；生命"
+    ],
+    "usphone": "laɪf",
+    "ukphone": "laɪf"
+  },
+  {
+    "name": "biology",
+    "trans": [
+      "n.生物学"
+    ],
+    "usphone": "baɪˈɑːlədʒi",
+    "ukphone": "baɪˈɒlədʒi"
+  },
+  {
+    "name": "Chinese",
+    "trans": [
+      "n.汉语；中国人；adj.中国的"
+    ],
+    "usphone": "ˌtʃaɪˈniːz",
+    "ukphone": "ˌtʃaɪˈniːz"
+  },
+  {
+    "name": "geography",
+    "trans": [
+      "n.地理(学)"
+    ],
+    "usphone": "dʒiˈɑːgrəfi",
+    "ukphone": "dʒiˈɒgrəfi"
+  },
+  {
+    "name": "art",
+    "trans": [
+      "n.美术，艺术"
+    ],
+    "usphone": "ɑːrt",
+    "ukphone": "ɑːt"
+  },
+  {
+    "name": "history",
+    "trans": [
+      "n.历史课；地方志；历史"
+    ],
+    "usphone": "ˈhɪstri",
+    "ukphone": "ˈhɪstri"
+  },
+  {
+    "name": "computer",
+    "trans": [
+      "n.电脑"
+    ],
+    "usphone": "kəmˈpjuːtə(r)",
+    "ukphone": "kəmˈpjuːtə(r)"
+  },
+  {
+    "name": "Wednesday",
+    "trans": [
+      "n.星期三"
+    ],
+    "usphone": "ˈwenzdeɪ;ˈwenzdi",
+    "ukphone": "ˈwenzdeɪ;ˈwenzdi"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "n.英语学科；英语；英格兰人；adj.英格兰的；英格兰人的；英语的"
+    ],
+    "usphone": "ˈɪŋglɪʃ",
+    "ukphone": "ˈɪŋglɪʃ"
+  },
+  {
+    "name": "begin",
+    "trans": [
+      "v.开始"
+    ],
+    "usphone": "bɪˈgɪn",
+    "ukphone": "bɪˈgɪn"
+  },
+  {
+    "name": "o'clock",
+    "trans": [
+      "adv.(表示整点)……点钟"
+    ],
+    "usphone": "əˈklɑːk",
+    "ukphone": "əˈklɒk"
+  },
+  {
+    "name": "ten",
+    "trans": [
+      "num.十"
+    ],
+    "usphone": "ten",
+    "ukphone": "ten"
+  },
+  {
+    "name": "half",
+    "trans": [
+      "n.一半"
+    ],
+    "usphone": "hæf",
+    "ukphone": "hɑːf"
+  },
+  {
+    "name": "past",
+    "trans": [
+      "prep.在……之后；n.过去；adj.从前的；刚过去的"
+    ],
+    "usphone": "pæst",
+    "ukphone": "pɑːst"
+  },
+  {
+    "name": "over",
+    "trans": [
+      "adv.结束；穿过；又；prep.遍及；在……上面；穿越"
+    ],
+    "usphone": "ˈəʊvə(r)",
+    "ukphone": "ˈəʊvə(r)"
+  },
+  {
+    "name": "quarter",
+    "trans": [
+      "n.一刻钟；四分之一；季度"
+    ],
+    "usphone": "ˈkwɔːrtər",
+    "ukphone": "ˈkwɔːtə(r)"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "adv.现在；目前"
+    ],
+    "usphone": "naʊ",
+    "ukphone": "naʊ"
+  },
+  {
+    "name": "favourite",
+    "trans": [
+      "adj.特别受喜爱的；n.特别喜爱的人(或事物)"
+    ],
+    "usphone": "ˈfeɪvərɪt",
+    "ukphone": "ˈfeɪvərɪt"
+  },
+  {
+    "name": "subject",
+    "trans": [
+      "n.科目"
+    ],
+    "usphone": "ˈsʌbdʒɪkt;ˈsʌbdʒekt",
+    "ukphone": "ˈsʌbdʒɪkt;ˈsʌbdʒekt"
+  },
+  {
+    "name": "Thursday",
+    "trans": [
+      "n.星期四"
+    ],
+    "usphone": "ˈθɜːrzdeɪ",
+    "ukphone": "ˈθɜːzdeɪ"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "prep.(表示方式)；(表示施事者)；在……旁边；在……之前"
+    ],
+    "usphone": "baɪ",
+    "ukphone": "baɪ"
+  },
+  {
+    "name": "underground",
+    "trans": [
+      "n.地铁"
+    ],
+    "usphone": "ˈʌndərgraʊnd",
+    "ukphone": "ˈʌndəgraʊnd"
+  },
+  {
+    "name": "plane",
+    "trans": [
+      "n.飞机"
+    ],
+    "usphone": "pleɪn",
+    "ukphone": "pleɪn"
+  },
+  {
+    "name": "foot",
+    "trans": [
+      "n.脚，足；底部"
+    ],
+    "usphone": "fʊt",
+    "ukphone": "fʊt"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "n.小汽车；轿车"
+    ],
+    "usphone": "kɑː(r)",
+    "ukphone": "kɑː(r)"
+  },
+  {
+    "name": "train",
+    "trans": [
+      "n.火车；v.训练；培训"
+    ],
+    "usphone": "treɪn",
+    "ukphone": "treɪn"
+  },
+  {
+    "name": "ship",
+    "trans": [
+      "n.(大)船；v.运输"
+    ],
+    "usphone": "ʃɪp",
+    "ukphone": "ʃɪp"
+  },
+  {
+    "name": "boat",
+    "trans": [
+      "n.(泛指)船；舟，小船"
+    ],
+    "usphone": "bəʊt",
+    "ukphone": "bəʊt"
+  },
+  {
+    "name": "way",
+    "trans": [
+      "n.方式；方面；路"
+    ],
+    "usphone": "weɪ",
+    "ukphone": "weɪ"
+  },
+  {
+    "name": "stop",
+    "trans": [
+      "n.车站；停止；v.停下；阻止；停止"
+    ],
+    "usphone": "stɑːp",
+    "ukphone": "stɒp"
+  },
+  {
+    "name": "usually",
+    "trans": [
+      "adv.经常地"
+    ],
+    "usphone": "ˈjuːʒuəli;ˈjuːʒəli",
+    "ukphone": "ˈjuːʒuəli;ˈjuːʒəli"
+  },
+  {
+    "name": "come",
+    "trans": [
+      "v.来；来到"
+    ],
+    "usphone": "kʌm",
+    "ukphone": "kʌm"
+  },
+  {
+    "name": "far",
+    "trans": [
+      "adv.远"
+    ],
+    "usphone": "fɑː(r)",
+    "ukphone": "fɑː(r)"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "adv.从不"
+    ],
+    "usphone": "ˈnevə(r)",
+    "ukphone": "ˈnevə(r)"
+  },
+  {
+    "name": "take",
+    "trans": [
+      "v.乘坐；带去；携带；拍照"
+    ],
+    "usphone": "teɪk",
+    "ukphone": "teɪk"
+  },
+  {
+    "name": "seldom",
+    "trans": [
+      "adv.不常，很少"
+    ],
+    "usphone": "ˈseldəm",
+    "ukphone": "ˈseldəm"
+  },
+  {
+    "name": "near",
+    "trans": [
+      "prep.在……附近"
+    ],
+    "usphone": "nɪr",
+    "ukphone": "nɪə(r)"
+  },
+  {
+    "name": "library",
+    "trans": [
+      "n.图书馆"
+    ],
+    "usphone": "ˈlaɪbreri",
+    "ukphone": "ˈlaɪbrəri"
+  },
+  {
+    "name": "building",
+    "trans": [
+      "n.建筑物；楼房"
+    ],
+    "usphone": "ˈbɪldɪŋ",
+    "ukphone": "ˈbɪldɪŋ"
+  },
+  {
+    "name": "floor",
+    "trans": [
+      "n.楼层；地板"
+    ],
+    "usphone": "flɔː(r)",
+    "ukphone": "flɔː(r)"
+  },
+  {
+    "name": "five",
+    "trans": [
+      "num.五"
+    ],
+    "usphone": "faɪv",
+    "ukphone": "faɪv"
+  },
+  {
+    "name": "playground",
+    "trans": [
+      "n.操场"
+    ],
+    "usphone": "ˈpleɪgraʊnd",
+    "ukphone": "ˈpleɪgraʊnd"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "adj.紧挨着的；下一个的；接下来的；adv.紧接着；随后next to prep.紧邻，在……近旁；紧接"
+    ],
+    "usphone": "nekst",
+    "ukphone": "nekst"
+  },
+  {
+    "name": "garden",
+    "trans": [
+      "n.花园"
+    ],
+    "usphone": "ˈgɑːrdn",
+    "ukphone": "ˈgɑːdn"
+  },
+  {
+    "name": "flower",
+    "trans": [
+      "n.花，花朵；花卉"
+    ],
+    "usphone": "ˈflaʊə(r)",
+    "ukphone": "ˈflaʊə(r)"
+  },
+  {
+    "name": "tidy",
+    "trans": [
+      "adj.整洁的；v.使整洁"
+    ],
+    "usphone": "ˈtaɪdi",
+    "ukphone": "ˈtaɪdi"
+  },
+  {
+    "name": "bright",
+    "trans": [
+      "adj.明亮的；光线充足的"
+    ],
+    "usphone": "braɪt",
+    "ukphone": "braɪt"
+  },
+  {
+    "name": "club",
+    "trans": [
+      "n.俱乐部；社团"
+    ],
+    "usphone": "klʌb",
+    "ukphone": "klʌb"
+  },
+  {
+    "name": "open",
+    "trans": [
+      "v.开门，开业；打开；睁开；张开；adj.开放；敞开的；张开的；展开的"
+    ],
+    "usphone": "ˈəʊpən",
+    "ukphone": "ˈəʊpən"
+  },
+  {
+    "name": "p.m.",
+    "trans": [
+      "abbr.下午，午后"
+    ],
+    "usphone": "ˌpiːˈem",
+    "ukphone": "ˌpiːˈem"
+  },
+  {
+    "name": "Tuesday",
+    "trans": [
+      "n.星期二"
+    ],
+    "usphone": "ˈtuːzdeɪ",
+    "ukphone": "ˈtjuːzdeɪ"
+  },
+  {
+    "name": "hall",
+    "trans": [
+      "n.礼堂，大厅；走廊；门厅"
+    ],
+    "usphone": "hɔːl",
+    "ukphone": "hɔːl"
+  },
+  {
+    "name": "song",
+    "trans": [
+      "n.歌曲"
+    ],
+    "usphone": "sɔːŋ",
+    "ukphone": "sɒŋ"
+  },
+  {
+    "name": "put",
+    "trans": [
+      "v.放；安置"
+    ],
+    "usphone": "pʊt",
+    "ukphone": "pʊt"
+  },
+  {
+    "name": "Friday",
+    "trans": [
+      "n.星期五"
+    ],
+    "usphone": "ˈfraɪdeɪ;ˈfraɪdi",
+    "ukphone": "ˈfraɪdeɪ;ˈfraɪdi"
+  },
+  {
+    "name": "water",
+    "trans": [
+      "n.水；v.浇水"
+    ],
+    "usphone": "ˈwɔːtə(r)",
+    "ukphone": "ˈwɔːtə(r)"
+  },
+  {
+    "name": "game",
+    "trans": [
+      "n.游戏；运动项目；比赛"
+    ],
+    "usphone": "geɪm",
+    "ukphone": "geɪm"
+  },
+  {
+    "name": "fun",
+    "trans": [
+      "adj.有趣的；n.乐趣"
+    ],
+    "usphone": "fʌn",
+    "ukphone": "fʌn"
+  },
+  {
+    "name": "Monday",
+    "trans": [
+      "n.星期一"
+    ],
+    "usphone": "ˈmʌndeɪ;ˈmʌndi",
+    "ukphone": "ˈmʌndeɪ;ˈmʌndi"
+  },
+  {
+    "name": "raise",
+    "trans": [
+      "v.提升，举起；增加；筹募；抚养"
+    ],
+    "usphone": "reɪz",
+    "ukphone": "reɪz"
+  },
+  {
+    "name": "national",
+    "trans": [
+      "adj.国家的；民族的；全国的"
+    ],
+    "usphone": "ˈnæʃnəl",
+    "ukphone": "ˈnæʃnəl"
+  },
+  {
+    "name": "flag",
+    "trans": [
+      "n.旗；旗帜"
+    ],
+    "usphone": "flæg",
+    "ukphone": "flæg"
+  },
+  {
+    "name": "start",
+    "trans": [
+      "v.开始；n.开头"
+    ],
+    "usphone": "stɑːrt",
+    "ukphone": "stɑːt"
+  },
+  {
+    "name": "first",
+    "trans": [
+      "det.，ordinalnum.第一；首要的；adv.首先；第一次"
+    ],
+    "usphone": "fɜːrst",
+    "ukphone": "fɜːst"
+  },
+  {
+    "name": "a.m.",
+    "trans": [
+      "abbr.上午，午前"
+    ],
+    "usphone": "ˌeɪˈem",
+    "ukphone": "ˌeɪˈem"
+  },
+  {
+    "name": "make",
+    "trans": [
+      "v.使成为；出产，写；做；使变得；使得"
+    ],
+    "usphone": "meɪk",
+    "ukphone": "meɪk"
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "n.手；帮助"
+    ],
+    "usphone": "hænd",
+    "ukphone": "hænd"
+  },
+  {
+    "name": "answer",
+    "trans": [
+      "v.答复；回答；n.答复，回答；答案"
+    ],
+    "usphone": "ˈænsər",
+    "ukphone": "ˈɑːnsə(r)"
+  },
+  {
+    "name": "question",
+    "trans": [
+      "n.问题"
+    ],
+    "usphone": "ˈkwestʃən",
+    "ukphone": "ˈkwestʃən"
+  },
+  {
+    "name": "box",
+    "trans": [
+      "n.盒，箱；方框"
+    ],
+    "usphone": "bɑːks",
+    "ukphone": "bɒks"
+  },
+  {
+    "name": "knife",
+    "trans": [
+      "n.刀"
+    ],
+    "usphone": "naɪf",
+    "ukphone": "naɪf"
+  },
+  {
+    "name": "glass",
+    "trans": [
+      "n.玻璃杯；眼镜；玻璃"
+    ],
+    "usphone": "glæs",
+    "ukphone": "glɑːs"
+  },
+  {
+    "name": "dish",
+    "trans": [
+      "n.菜肴；餐具"
+    ],
+    "usphone": "dɪʃ",
+    "ukphone": "dɪʃ"
+  },
+  {
+    "name": "tomato",
+    "trans": [
+      "n.番茄"
+    ],
+    "usphone": "təˈmeɪtəʊ",
+    "ukphone": "təˈmɑːtəʊ"
+  },
+  {
+    "name": "country",
+    "trans": [
+      "n.国家"
+    ],
+    "usphone": "ˈkʌntri",
+    "ukphone": "ˈkʌntri"
+  },
+  {
+    "name": "American",
+    "trans": [
+      "adj.美国的；n.美国人"
+    ],
+    "usphone": "əˈmerɪkən",
+    "ukphone": "əˈmerɪkən"
+  },
+  {
+    "name": "during",
+    "trans": [
+      "prep.在……期间"
+    ],
+    "usphone": "ˈdʊrɪŋ",
+    "ukphone": "ˈdjʊərɪŋ"
+  },
+  {
+    "name": "classroom",
+    "trans": [
+      "n.教室；课堂"
+    ],
+    "usphone": "ˈklæsruːm",
+    "ukphone": "ˈklɑːsruːm"
+  },
+  {
+    "name": "part",
+    "trans": [
+      "n.参与；部分"
+    ],
+    "usphone": "pɑːrt",
+    "ukphone": "pɑːt"
+  },
+  {
+    "name": "bottle",
+    "trans": [
+      "n.瓶子"
+    ],
+    "usphone": "ˈbɑːtl",
+    "ukphone": "ˈbɒtl"
+  },
+  {
+    "name": "any",
+    "trans": [
+      "det.任何的，任一的；任一；pron.任一；任何数量"
+    ],
+    "usphone": "ˈeni",
+    "ukphone": "ˈeni"
+  },
+  {
+    "name": "juice",
+    "trans": [
+      "n.果汁；菜汁"
+    ],
+    "usphone": "dʒuːs",
+    "ukphone": "dʒuːs"
+  },
+  {
+    "name": "blackboard",
+    "trans": [
+      "n.黑板"
+    ],
+    "usphone": "ˈblækbɔːrd",
+    "ukphone": "ˈblækbɔːd"
+  },
+  {
+    "name": "desk",
+    "trans": [
+      "n.书桌"
+    ],
+    "usphone": "desk",
+    "ukphone": "desk"
+  },
+  {
+    "name": "chair",
+    "trans": [
+      "n.椅子"
+    ],
+    "usphone": "tʃer",
+    "ukphone": "tʃeə(r)"
+  },
+  {
+    "name": "pencil",
+    "trans": [
+      "n.铅笔"
+    ],
+    "usphone": "ˈpensl",
+    "ukphone": "ˈpensl"
+  },
+  {
+    "name": "ruler",
+    "trans": [
+      "n.直尺"
+    ],
+    "usphone": "ˈruːlə(r)",
+    "ukphone": "ˈruːlə(r)"
+  },
+  {
+    "name": "schoolbag",
+    "trans": [
+      "n.书包"
+    ],
+    "usphone": "ˈskuːlbæg",
+    "ukphone": "ˈskuːlbæg"
+  },
+  {
+    "name": "ping-pong",
+    "trans": [
+      "n.乒乓球运动"
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ball",
+    "trans": [
+      "n.球"
+    ],
+    "usphone": "bɔːl",
+    "ukphone": "bɔːl"
+  },
+  {
+    "name": "find",
+    "trans": [
+      "v.找到；发现；认为"
+    ],
+    "usphone": "faɪnd",
+    "ukphone": "faɪnd"
+  },
+  {
+    "name": "lost",
+    "trans": [
+      "adj.丢失的；迷路的"
+    ],
+    "usphone": "lɔːst",
+    "ukphone": "lɒst"
+  },
+  {
+    "name": "colour",
+    "trans": [
+      "n.颜色；v.为……着色"
+    ],
+    "usphone": "ˈkʌlə(r)",
+    "ukphone": "ˈkʌlə(r)"
+  },
+  {
+    "name": "end",
+    "trans": [
+      "v.结束；终止；n.结尾；末端"
+    ],
+    "usphone": "end",
+    "ukphone": "end"
+  },
+  {
+    "name": "learn",
+    "trans": [
+      "v.学习；记住"
+    ],
+    "usphone": "lɜːrn",
+    "ukphone": "lɜːn"
+  },
+  {
+    "name": "interesting",
+    "trans": [
+      "adj.有趣的"
+    ],
+    "usphone": "ˈɪntrəstɪŋ;ˈɪntrestɪŋ",
+    "ukphone": "ˈɪntrəstɪŋ;ˈɪntrestɪŋ"
+  },
+  {
+    "name": "join",
+    "trans": [
+      "v.参加；加入"
+    ],
+    "usphone": "dʒɔɪn",
+    "ukphone": "dʒɔɪn"
+  },
+  {
+    "name": "web",
+    "trans": [
+      "n.万维网"
+    ],
+    "usphone": "web",
+    "ukphone": "web"
+  },
+  {
+    "name": "page",
+    "trans": [
+      "n.页；页面"
+    ],
+    "usphone": "peɪdʒ",
+    "ukphone": "peɪdʒ"
+  },
+  {
+    "name": "city",
+    "trans": [
+      "n.都市；城市"
+    ],
+    "usphone": "ˈsɪti",
+    "ukphone": "ˈsɪti"
+  },
+  {
+    "name": "welcome",
+    "trans": [
+      "excl.，v.欢迎；adj.受欢迎的"
+    ],
+    "usphone": "ˈwelkəm",
+    "ukphone": "ˈwelkəm"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "adv.(从……里)出来；在外面；外出"
+    ],
+    "usphone": "aʊt",
+    "ukphone": "aʊt"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "det.，pron.更多的；adv.更"
+    ],
+    "usphone": "mɔː(r)",
+    "ukphone": "mɔː(r)"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "v.想要；需要"
+    ],
+    "usphone": "wɑːnt",
+    "ukphone": "wɒnt"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "conj.因为"
+    ],
+    "usphone": "bɪˈkɔːz",
+    "ukphone": "bɪˈkəz"
+  },
+  {
+    "name": "room",
+    "trans": [
+      "n.房间；空间"
+    ],
+    "usphone": "ruːm;rʊm",
+    "ukphone": "ruːm;rʊm"
+  },
+  {
+    "name": "writer",
+    "trans": [
+      "n.作家"
+    ],
+    "usphone": "ˈraɪtə(r)",
+    "ukphone": "ˈraɪtə(r)"
+  },
+  {
+    "name": "ask",
+    "trans": [
+      "v.问，询问；请求"
+    ],
+    "usphone": "æsk",
+    "ukphone": "ɑːsk"
+  },
+  {
+    "name": "sun",
+    "trans": [
+      "n.太阳；阳光"
+    ],
+    "usphone": "sʌn",
+    "ukphone": "sʌn"
+  },
+  {
+    "name": "spring",
+    "trans": [
+      "n.春天；春季"
+    ],
+    "usphone": "sprɪŋ",
+    "ukphone": "sprɪŋ"
+  },
+  {
+    "name": "summer",
+    "trans": [
+      "n.夏天；夏季"
+    ],
+    "usphone": "ˈsʌmə(r)",
+    "ukphone": "ˈsʌmə(r)"
+  },
+  {
+    "name": "autumn",
+    "trans": [
+      "n.秋天；秋季"
+    ],
+    "usphone": "ˈɔːtəm",
+    "ukphone": "ˈɔːtəm"
+  },
+  {
+    "name": "winter",
+    "trans": [
+      "n.冬天；冬季"
+    ],
+    "usphone": "ˈwɪntə(r)",
+    "ukphone": "ˈwɪntə(r)"
+  },
+  {
+    "name": "hot",
+    "trans": [
+      "adj.温度高的；热的"
+    ],
+    "usphone": "hɑːt",
+    "ukphone": "hɒt"
+  },
+  {
+    "name": "cool",
+    "trans": [
+      "adj.凉的；凉爽的；酷的"
+    ],
+    "usphone": "kuːl",
+    "ukphone": "kuːl"
+  },
+  {
+    "name": "cold",
+    "trans": [
+      "adj.寒冷的；n.感冒"
+    ],
+    "usphone": "kəʊld",
+    "ukphone": "kəʊld"
+  },
+  {
+    "name": "warm",
+    "trans": [
+      "adj.温暖的；保暖的；热心的；v.变暖和"
+    ],
+    "usphone": "wɔːrm",
+    "ukphone": "wɔːm"
+  },
+  {
+    "name": "snow",
+    "trans": [
+      "v.下雪；n.雪"
+    ],
+    "usphone": "snəʊ",
+    "ukphone": "snəʊ"
+  },
+  {
+    "name": "snowman",
+    "trans": [
+      "n.雪人"
+    ],
+    "usphone": "ˈsnəʊmæn",
+    "ukphone": "ˈsnəʊmæn"
+  },
+  {
+    "name": "sunny",
+    "trans": [
+      "adj.阳光充足的"
+    ],
+    "usphone": "ˈsʌni",
+    "ukphone": "ˈsʌni"
+  },
+  {
+    "name": "today",
+    "trans": [
+      "adv.在今天；n.今天；当今"
+    ],
+    "usphone": "təˈdeɪ",
+    "ukphone": "təˈdeɪ"
+  },
+  {
+    "name": "picnic",
+    "trans": [
+      "n.，v.野餐"
+    ],
+    "usphone": "ˈpɪknɪk",
+    "ukphone": "ˈpɪknɪk"
+  },
+  {
+    "name": "weather",
+    "trans": [
+      "n.天气"
+    ],
+    "usphone": "ˈweðə(r)",
+    "ukphone": "ˈweðə(r)"
+  },
+  {
+    "name": "season",
+    "trans": [
+      "n.季；季节"
+    ],
+    "usphone": "ˈsiːzn",
+    "ukphone": "ˈsiːzn"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "adv.为什么"
+    ],
+    "usphone": "waɪ",
+    "ukphone": "waɪ"
+  },
+  {
+    "name": "rain",
+    "trans": [
+      "n.雨；雨水；v.下雨"
+    ],
+    "usphone": "reɪn",
+    "ukphone": "reɪn"
+  },
+  {
+    "name": "dry",
+    "trans": [
+      "adj.干燥的；干旱的"
+    ],
+    "usphone": "draɪ",
+    "ukphone": "draɪ"
+  },
+  {
+    "name": "badminton",
+    "trans": [
+      "n.羽毛球运动"
+    ],
+    "usphone": "ˈbædmɪntən",
+    "ukphone": "ˈbædmɪntən"
+  },
+  {
+    "name": "baseball",
+    "trans": [
+      "n.棒球运动；棒球"
+    ],
+    "usphone": "ˈbeɪsbɔːl",
+    "ukphone": "ˈbeɪsbɔːl"
+  },
+  {
+    "name": "phone",
+    "trans": [
+      "n.电话系统；手机"
+    ],
+    "usphone": "fəʊn",
+    "ukphone": "fəʊn"
+  },
+  {
+    "name": "shoe",
+    "trans": [
+      "n.鞋"
+    ],
+    "usphone": "ʃuː",
+    "ukphone": "ʃuː"
+  },
+  {
+    "name": "sorry",
+    "trans": [
+      "excl.很抱歉；adj.歉疚；难过"
+    ],
+    "usphone": "ˈsɑːri",
+    "ukphone": "ˈsɒri"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "n.家庭作业"
+    ],
+    "usphone": "ˈhəʊmwɜːrk",
+    "ukphone": "ˈhəʊmwɜːk"
+  },
+  {
+    "name": "hope",
+    "trans": [
+      "v.，n.希望"
+    ],
+    "usphone": "həʊp",
+    "ukphone": "həʊp"
+  },
+  {
+    "name": "yoyo",
+    "trans": [
+      "n.悠悠球"
+    ],
+    "usphone": "ˈjəʊjəʊ",
+    "ukphone": "ˈjəʊjəʊ"
+  },
+  {
+    "name": "long",
+    "trans": [
+      "adv.(强调某事发生在某整段时间)；长期地；长久地；adj.长的；长时间的；v.渴望"
+    ],
+    "usphone": "lɔːŋ",
+    "ukphone": "lɒŋ"
+  },
+  {
+    "name": "cloudy",
+    "trans": [
+      "adj.阴天的；多云的"
+    ],
+    "usphone": "ˈklaʊdi",
+    "ukphone": "ˈklaʊdi"
+  },
+  {
+    "name": "outdoors",
+    "trans": [
+      "adv.在户外；在野外"
+    ],
+    "usphone": "ˌaʊtˈdɔːrz",
+    "ukphone": "ˌaʊtˈdɔːz"
+  },
+  {
+    "name": "rainy",
+    "trans": [
+      "adj.阴雨的；多雨的"
+    ],
+    "usphone": "ˈreɪni",
+    "ukphone": "ˈreɪni"
+  },
+  {
+    "name": "indoors",
+    "trans": [
+      "adv.在室内"
+    ],
+    "usphone": "ˌɪnˈdɔːrz",
+    "ukphone": "ˌɪnˈdɔːz"
+  },
+  {
+    "name": "exercise",
+    "trans": [
+      "n.锻炼；练习；v.锻炼"
+    ],
+    "usphone": "ˈeksərsaɪz",
+    "ukphone": "ˈeksəsaɪz"
+  },
+  {
+    "name": "health",
+    "trans": [
+      "n.健康"
+    ],
+    "usphone": "helθ",
+    "ukphone": "helθ"
+  },
+  {
+    "name": "tip",
+    "trans": [
+      "n.实用的提示；小费；尖端"
+    ],
+    "usphone": "tɪp",
+    "ukphone": "tɪp"
+  },
+  {
+    "name": "right",
+    "trans": [
+      "adj.适当的；正确的；右边的；n.右边；权利"
+    ],
+    "usphone": "raɪt",
+    "ukphone": "raɪt"
+  },
+  {
+    "name": "clothes",
+    "trans": [
+      "n.衣服；服装"
+    ],
+    "usphone": "kləʊðz;kləʊz",
+    "ukphone": "kləʊðz;kləʊz"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "adj.重要的"
+    ],
+    "usphone": "ɪmˈpɔːrtnt",
+    "ukphone": "ɪmˈpɔːtnt"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "prep.，conj.在……以前"
+    ],
+    "usphone": "bɪˈfɔː(r)",
+    "ukphone": "bɪˈfɔː(r)"
+  },
+  {
+    "name": "team",
+    "trans": [
+      "n.队；组"
+    ],
+    "usphone": "tiːm",
+    "ukphone": "tiːm"
+  },
+  {
+    "name": "give",
+    "trans": [
+      "v.提供；送给；给"
+    ],
+    "usphone": "gɪv",
+    "ukphone": "gɪv"
+  },
+  {
+    "name": "keep",
+    "trans": [
+      "v.继续；保持；存放；记录"
+    ],
+    "usphone": "kiːp",
+    "ukphone": "kiːp"
+  },
+  {
+    "name": "pass",
+    "trans": [
+      "v.传球；及格；通过；传递；n.及格"
+    ],
+    "usphone": "pæs",
+    "ukphone": "pɑːs"
+  },
+  {
+    "name": "win",
+    "trans": [
+      "v.获胜，赢"
+    ],
+    "usphone": "wɪn",
+    "ukphone": "wɪn"
+  },
+  {
+    "name": "wish",
+    "trans": [
+      "n.心愿；祝愿；v.希望；祝愿"
+    ],
+    "usphone": "wɪʃ",
+    "ukphone": "wɪʃ"
+  },
+  {
+    "name": "feel",
+    "trans": [
+      "v.觉得，感到；摸起来"
+    ],
+    "usphone": "fiːl",
+    "ukphone": "fiːl"
+  },
+  {
+    "name": "star",
+    "trans": [
+      "n.明星；星"
+    ],
+    "usphone": "stɑː(r)",
+    "ukphone": "stɑː(r)"
+  },
+  {
+    "name": "use",
+    "trans": [
+      "v.使用"
+    ],
+    "usphone": "juːz",
+    "ukphone": "juːz"
+  },
+  {
+    "name": "grape",
+    "trans": [
+      "n.葡萄"
+    ],
+    "usphone": "greɪp",
+    "ukphone": "greɪp"
+  },
+  {
+    "name": "fast",
+    "trans": [
+      "adv.快；迅速；adj.快的；迅速的"
+    ],
+    "usphone": "fæst",
+    "ukphone": "fɑːst"
+  },
+  {
+    "name": "feed",
+    "trans": [
+      "v.喂养；进食"
+    ],
+    "usphone": "fiːd",
+    "ukphone": "fiːd"
+  },
+  {
+    "name": "bird",
+    "trans": [
+      "n.鸟；禽"
+    ],
+    "usphone": "bɜːrd",
+    "ukphone": "bɜːd"
+  },
+  {
+    "name": "red",
+    "trans": [
+      "n.红色；adj.红色的"
+    ],
+    "usphone": "red",
+    "ukphone": "red"
+  },
+  {
+    "name": "lake",
+    "trans": [
+      "n.湖；湖泊"
+    ],
+    "usphone": "leɪk",
+    "ukphone": "leɪk"
+  },
+  {
+    "name": "Tai Chi",
+    "trans": [
+      "n.太极"
+    ],
+    "usphone": "ˈtaɪˈtʃiː",
+    "ukphone": "ˈtaɪˈtʃiː"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "adv.何时；conj.当……时"
+    ],
+    "usphone": "wen",
+    "ukphone": "wen"
+  },
+  {
+    "name": "ski",
+    "trans": [
+      "v.滑雪(运动)"
+    ],
+    "usphone": "skiː",
+    "ukphone": "skiː"
+  },
+  {
+    "name": "hometown",
+    "trans": [
+      "n.家乡；故乡"
+    ],
+    "usphone": "ˈhəʊmtaʊn",
+    "ukphone": "ˈhəʊmtaʊn"
+  },
+  {
+    "name": "travel",
+    "trans": [
+      "v.，n.旅行；游历"
+    ],
+    "usphone": "ˈtrævl",
+    "ukphone": "ˈtrævl"
+  },
+  {
+    "name": "mountain",
+    "trans": [
+      "n.高山；山岳"
+    ],
+    "usphone": "ˈmaʊntn",
+    "ukphone": "ˈmaʊntən"
+  },
+  {
+    "name": "turn",
+    "trans": [
+      "n.转弯；机会；v.转弯；转身；翻；成为"
+    ],
+    "usphone": "tɜːrn",
+    "ukphone": "tɜːn"
+  },
+  {
+    "name": "move",
+    "trans": [
+      "v.移动；搬(家)"
+    ],
+    "usphone": "muːv",
+    "ukphone": "muːv"
+  },
+  {
+    "name": "survey",
+    "trans": [
+      "n.民意调查"
+    ],
+    "usphone": "ˈsɜːrveɪ",
+    "ukphone": "ˈsɜːveɪ"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "n.周；一周"
+    ],
+    "usphone": "wiːk",
+    "ukphone": "wiːk"
+  },
+  {
+    "name": "hour",
+    "trans": [
+      "n.小时"
+    ],
+    "usphone": "ˈaʊə(r)",
+    "ukphone": "ˈaʊə(r)"
+  },
+  {
+    "name": "result",
+    "trans": [
+      "n.结果；后果；成果"
+    ],
+    "usphone": "rɪˈzʌlt",
+    "ukphone": "rɪˈzʌlt"
+  },
+  {
+    "name": "cap",
+    "trans": [
+      "n.便帽，制服帽"
+    ],
+    "usphone": "kæp",
+    "ukphone": "kæp"
+  },
+  {
+    "name": "pair",
+    "trans": [
+      "n.由两个相连接部分组成的物体；俩；一双"
+    ],
+    "usphone": "per",
+    "ukphone": "peə(r)"
+  },
+  {
+    "name": "shorts",
+    "trans": [
+      "n.短裤"
+    ],
+    "usphone": "ʃɔːrts",
+    "ukphone": "ʃɔːts"
+  },
+  {
+    "name": "zoo",
+    "trans": [
+      "n.动物园"
+    ],
+    "usphone": "zuː",
+    "ukphone": "zuː"
+  },
+  {
+    "name": "wind",
+    "trans": [
+      "n.风"
+    ],
+    "usphone": "wɪnd",
+    "ukphone": "wɪnd"
+  },
+  {
+    "name": "leg",
+    "trans": [
+      "n.有……腿的；腿"
+    ],
+    "usphone": "leg",
+    "ukphone": "leg"
+  },
+  {
+    "name": "race",
+    "trans": [
+      "n.赛跑；速度竞赛"
+    ],
+    "usphone": "reɪs",
+    "ukphone": "reɪs"
+  },
+  {
+    "name": "side",
+    "trans": [
+      "n.一边；一侧"
+    ],
+    "usphone": "saɪd",
+    "ukphone": "saɪd"
+  },
+  {
+    "name": "even",
+    "trans": [
+      "adv.甚至，连；更加"
+    ],
+    "usphone": "iːvn",
+    "ukphone": "iːvn"
+  },
+  {
+    "name": "write",
+    "trans": [
+      "v.书写；写作；写信"
+    ],
+    "usphone": "raɪt",
+    "ukphone": "raɪt"
+  },
+  {
+    "name": "down",
+    "trans": [
+      "adv.(写)在纸上；向下；prep.向下；沿着"
+    ],
+    "usphone": "daʊn",
+    "ukphone": "daʊn"
+  },
+  {
+    "name": "nature",
+    "trans": [
+      "n.自然界；自然"
+    ],
+    "usphone": "ˈneɪtʃə(r)",
+    "ukphone": "ˈneɪtʃə(r)"
+  },
+  {
+    "name": "sea",
+    "trans": [
+      "n.海；海洋"
+    ],
+    "usphone": "siː",
+    "ukphone": "siː"
+  },
+  {
+    "name": "desert",
+    "trans": [
+      "n.沙漠"
+    ],
+    "usphone": "ˈdezərt",
+    "ukphone": "ˈdezət"
+  },
+  {
+    "name": "rainforest",
+    "trans": [
+      "n.(热带)雨林"
+    ],
+    "usphone": "ˈreɪnfɔːrɪst",
+    "ukphone": "ˈreɪnfɒrɪst"
+  },
+  {
+    "name": "waterfall",
+    "trans": [
+      "n.瀑布"
+    ],
+    "usphone": "ˈwɔːtərfɔːl",
+    "ukphone": "ˈwɔːtəfɔːl"
+  },
+  {
+    "name": "grassland",
+    "trans": [
+      "n.草原"
+    ],
+    "usphone": "ˈgræslænd",
+    "ukphone": "ˈgrɑːslænd"
+  },
+  {
+    "name": "wet",
+    "trans": [
+      "adj.潮湿的"
+    ],
+    "usphone": "wet",
+    "ukphone": "wet"
+  },
+  {
+    "name": "plant",
+    "trans": [
+      "n.植物；v.种植"
+    ],
+    "usphone": "plænt",
+    "ukphone": "plɑːnt"
+  },
+  {
+    "name": "animal",
+    "trans": [
+      "n.动物"
+    ],
+    "usphone": "ˈænɪml",
+    "ukphone": "ˈænɪml"
+  },
+  {
+    "name": "fall",
+    "trans": [
+      "v.落下；发生；跌倒"
+    ],
+    "usphone": "fɔːl",
+    "ukphone": "fɔːl"
+  },
+  {
+    "name": "hill",
+    "trans": [
+      "n.山丘；小山"
+    ],
+    "usphone": "hɪl",
+    "ukphone": "hɪl"
+  },
+  {
+    "name": "grass",
+    "trans": [
+      "n.草；草地"
+    ],
+    "usphone": "græs",
+    "ukphone": "grɑːs"
+  },
+  {
+    "name": "elephant",
+    "trans": [
+      "n.象"
+    ],
+    "usphone": "ˈelɪfənt",
+    "ukphone": "ˈelɪfənt"
+  },
+  {
+    "name": "air",
+    "trans": [
+      "n.空气；空中"
+    ],
+    "usphone": "er",
+    "ukphone": "eə(r)"
+  },
+  {
+    "name": "top",
+    "trans": [
+      "n.顶部；adj.最高的"
+    ],
+    "usphone": "tɑːp",
+    "ukphone": "tɒp"
+  },
+  {
+    "name": "place",
+    "trans": [
+      "n.地方；场所；v.放置"
+    ],
+    "usphone": "pleɪs",
+    "ukphone": "pleɪs"
+  },
+  {
+    "name": "climate",
+    "trans": [
+      "n.气候"
+    ],
+    "usphone": "ˈklaɪmət",
+    "ukphone": "ˈklaɪmət"
+  },
+  {
+    "name": "house",
+    "trans": [
+      "n.房子"
+    ],
+    "usphone": "haʊs",
+    "ukphone": "haʊs"
+  },
+  {
+    "name": "window",
+    "trans": [
+      "n.窗户"
+    ],
+    "usphone": "ˈwɪndəʊ",
+    "ukphone": "ˈwɪndəʊ"
+  },
+  {
+    "name": "get",
+    "trans": [
+      "v.得到；收到；到达"
+    ],
+    "usphone": "get",
+    "ukphone": "get"
+  },
+  {
+    "name": "bat",
+    "trans": [
+      "n.蝙蝠；球拍"
+    ],
+    "usphone": "bæt",
+    "ukphone": "bæt"
+  },
+  {
+    "name": "fly",
+    "trans": [
+      "v.飞；飞行；飞越；飞逝"
+    ],
+    "usphone": "flaɪ",
+    "ukphone": "flaɪ"
+  },
+  {
+    "name": "active",
+    "trans": [
+      "adj.活跃的；积极的"
+    ],
+    "usphone": "ˈæktɪv",
+    "ukphone": "ˈæktɪv"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "n.夜；夜晚"
+    ],
+    "usphone": "naɪt",
+    "ukphone": "naɪt"
+  },
+  {
+    "name": "panda",
+    "trans": [
+      "n.大熊猫；小熊猫"
+    ],
+    "usphone": "ˈpændə",
+    "ukphone": "ˈpændə"
+  },
+  {
+    "name": "tail",
+    "trans": [
+      "n.尾；尾巴"
+    ],
+    "usphone": "teɪl",
+    "ukphone": "teɪl"
+  },
+  {
+    "name": "bamboo",
+    "trans": [
+      "n.竹；竹子"
+    ],
+    "usphone": "ˌbæmˈbuː",
+    "ukphone": "ˌbæmˈbuː"
+  },
+  {
+    "name": "brown",
+    "trans": [
+      "adj.棕色的；褐色的；n.棕色；褐色"
+    ],
+    "usphone": "braʊn",
+    "ukphone": "braʊn"
+  },
+  {
+    "name": "bear",
+    "trans": [
+      "n.熊；v.承受；忍受"
+    ],
+    "usphone": "ber",
+    "ukphone": "beə(r)"
+  },
+  {
+    "name": "forest",
+    "trans": [
+      "n.森林；林区"
+    ],
+    "usphone": "ˈfɔːrɪst",
+    "ukphone": "ˈfɒrɪst"
+  },
+  {
+    "name": "north",
+    "trans": [
+      "adj.北方的；n.北方"
+    ],
+    "usphone": "nɔːrθ",
+    "ukphone": "nɔːθ"
+  },
+  {
+    "name": "fish",
+    "trans": [
+      "n.鱼；鱼肉；v.钓鱼；捕鱼"
+    ],
+    "usphone": "fɪʃ",
+    "ukphone": "fɪʃ"
+  },
+  {
+    "name": "think",
+    "trans": [
+      "v.认为；思考；想"
+    ],
+    "usphone": "θɪŋk",
+    "ukphone": "θɪŋk"
+  },
+  {
+    "name": "these",
+    "trans": [
+      "det.这些"
+    ],
+    "usphone": "ðiːz",
+    "ukphone": "ðiːz"
+  },
+  {
+    "name": "grow",
+    "trans": [
+      "v.(使)生长；增加；成长"
+    ],
+    "usphone": "grəʊ",
+    "ukphone": "grəʊ"
+  },
+  {
+    "name": "May",
+    "trans": [
+      "n.五月"
+    ],
+    "usphone": "meɪ",
+    "ukphone": "meɪ"
+  },
+  {
+    "name": "June",
+    "trans": [
+      "n.六月"
+    ],
+    "usphone": "dʒuːn",
+    "ukphone": "dʒuːn"
+  },
+  {
+    "name": "green",
+    "trans": [
+      "adj.绿色的；n.绿色"
+    ],
+    "usphone": "griːn",
+    "ukphone": "griːn"
+  },
+  {
+    "name": "plenty",
+    "trans": [
+      "pron.大量；充足"
+    ],
+    "usphone": "ˈplenti",
+    "ukphone": "ˈplenti"
+  },
+  {
+    "name": "few",
+    "trans": [
+      "det.，adj.有些，几个；很少；pron.一些"
+    ],
+    "usphone": "fjuː",
+    "ukphone": "fjuː"
+  },
+  {
+    "name": "wonder",
+    "trans": [
+      "n.奇迹；v.想知道"
+    ],
+    "usphone": "ˈwʌndə(r)",
+    "ukphone": "ˈwʌndə(r)"
+  },
+  {
+    "name": "main",
+    "trans": [
+      "adj.主要的"
+    ],
+    "usphone": "meɪn",
+    "ukphone": "meɪn"
+  },
+  {
+    "name": "difference",
+    "trans": [
+      "n.差别；差异"
+    ],
+    "usphone": "ˈdɪfrəns",
+    "ukphone": "ˈdɪfrəns"
+  },
+  {
+    "name": "horse",
+    "trans": [
+      "n.马"
+    ],
+    "usphone": "hɔːrs",
+    "ukphone": "hɔːs"
+  },
+  {
+    "name": "drink",
+    "trans": [
+      "v.喝；饮；n.饮料"
+    ],
+    "usphone": "drɪŋk",
+    "ukphone": "drɪŋk"
+  },
+  {
+    "name": "earth",
+    "trans": [
+      "n.土，泥土；地球"
+    ],
+    "usphone": "ɜːrθ",
+    "ukphone": "ɜːθ"
+  },
+  {
+    "name": "egg",
+    "trans": [
+      "n.鸡蛋；蛋，卵"
+    ],
+    "usphone": "eg",
+    "ukphone": "eg"
+  },
+  {
+    "name": "cow",
+    "trans": [
+      "n.奶牛；母牛"
+    ],
+    "usphone": "kaʊ",
+    "ukphone": "kaʊ"
+  },
+  {
+    "name": "map",
+    "trans": [
+      "n.地图"
+    ],
+    "usphone": "mæp",
+    "ukphone": "mæp"
+  },
+  {
+    "name": "apple",
+    "trans": [
+      "n.苹果"
+    ],
+    "usphone": "ˈæpl",
+    "ukphone": "ˈæpl"
+  },
+  {
+    "name": "sky",
+    "trans": [
+      "n.天；天空"
+    ],
+    "usphone": "skaɪ",
+    "ukphone": "skaɪ"
+  },
+  {
+    "name": "windy",
+    "trans": [
+      "adj.多风的；风大的"
+    ],
+    "usphone": "ˈwɪndi",
+    "ukphone": "ˈwɪndi"
+  },
+  {
+    "name": "kite",
+    "trans": [
+      "n.风筝"
+    ],
+    "usphone": "kaɪt",
+    "ukphone": "kaɪt"
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "adj.橙红色的；橘黄色的；n.橙子；橙红色；橘黄色"
+    ],
+    "usphone": "ˈɔːrɪndʒ",
+    "ukphone": "ˈɒrɪndʒ"
+  },
+  {
+    "name": "bee",
+    "trans": [
+      "n.蜜蜂"
+    ],
+    "usphone": "biː",
+    "ukphone": "biː"
+  },
+  {
+    "name": "shark",
+    "trans": [
+      "n.鲨鱼"
+    ],
+    "usphone": "ʃɑːrk",
+    "ukphone": "ʃɑːk"
+  },
+  {
+    "name": "climb",
+    "trans": [
+      "v.攀登；爬"
+    ],
+    "usphone": "klaɪm",
+    "ukphone": "klaɪm"
+  },
+  {
+    "name": "monkey",
+    "trans": [
+      "n.猴子"
+    ],
+    "usphone": "ˈmʌŋki",
+    "ukphone": "ˈmʌŋki"
+  },
+  {
+    "name": "butterfly",
+    "trans": [
+      "n.蝴蝶"
+    ],
+    "usphone": "ˈbʌtərflaɪ",
+    "ukphone": "ˈbʌtəflaɪ"
+  },
+  {
+    "name": "duck",
+    "trans": [
+      "n.鸭；鸭肉"
+    ],
+    "usphone": "dʌk",
+    "ukphone": "dʌk"
+  },
+  {
+    "name": "call",
+    "trans": [
+      "v.大声呼叫；把……叫作；(给……)打电话；n.通话"
+    ],
+    "usphone": "kɔːl",
+    "ukphone": "kɔːl"
+  },
+  {
+    "name": "understand",
+    "trans": [
+      "v.理解；了解"
+    ],
+    "usphone": "ˌʌndərˈstænd",
+    "ukphone": "ˌʌndəˈstænd"
+  },
+  {
+    "name": "wild",
+    "trans": [
+      "adj.野生的；荒凉的"
+    ],
+    "usphone": "waɪld",
+    "ukphone": "waɪld"
+  },
+  {
+    "name": "rest",
+    "trans": [
+      "n.休息时间；其余"
+    ],
+    "usphone": "rest",
+    "ukphone": "rest"
+  },
+  {
+    "name": "under",
+    "trans": [
+      "prep.在……下面"
+    ],
+    "usphone": "ˈʌndə(r)",
+    "ukphone": "ˈʌndə(r)"
+  },
+  {
+    "name": "bring",
+    "trans": [
+      "v.带来"
+    ],
+    "usphone": "brɪŋ",
+    "ukphone": "brɪŋ"
+  },
+  {
+    "name": "importance",
+    "trans": [
+      "n.重要性；重要"
+    ],
+    "usphone": "ɪmˈpɔːrtns",
+    "ukphone": "ɪmˈpɔːtns"
+  },
+  {
+    "name": "fresh",
+    "trans": [
+      "adj.清新的；新鲜的"
+    ],
+    "usphone": "freʃ",
+    "ukphone": "freʃ"
+  },
+  {
+    "name": "everyday",
+    "trans": [
+      "adj.每天的；日常的"
+    ],
+    "usphone": "ˈevrideɪ",
+    "ukphone": "ˈevrideɪ"
+  },
+  {
+    "name": "milk",
+    "trans": [
+      "n.(牛或羊等的)奶"
+    ],
+    "usphone": "mɪlk",
+    "ukphone": "mɪlk"
+  },
+  {
+    "name": "south",
+    "trans": [
+      "n.南方；adj.南方的"
+    ],
+    "usphone": "saʊθ",
+    "ukphone": "saʊθ"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "modalv.(谈及将来)；会"
+    ],
+    "usphone": "wɪl",
+    "ukphone": "wɪl"
+  },
+  {
+    "name": "world",
+    "trans": [
+      "n.世界"
+    ],
+    "usphone": "wɜːrld",
+    "ukphone": "wɜːld"
+  },
+  {
+    "name": "healthy",
+    "trans": [
+      "adj.健康的"
+    ],
+    "usphone": "ˈhelθi",
+    "ukphone": "ˈhelθi"
+  },
+  {
+    "name": "fire",
+    "trans": [
+      "n.火；火灾"
+    ],
+    "usphone": "ˈfaɪə(r)",
+    "ukphone": "ˈfaɪə(r)"
+  },
+  {
+    "name": "noodle",
+    "trans": [
+      "n.面条"
+    ],
+    "usphone": "ˈnuːdl",
+    "ukphone": "ˈnuːdl"
+  },
+  {
+    "name": "dumpling",
+    "trans": [
+      "n.饺子"
+    ],
+    "usphone": "ˈdʌmplɪŋ",
+    "ukphone": "ˈdʌmplɪŋ"
+  },
+  {
+    "name": "river",
+    "trans": [
+      "n.河；江"
+    ],
+    "usphone": "ˈrɪvə(r)",
+    "ukphone": "ˈrɪvə(r)"
+  },
+  {
+    "name": "vegetable",
+    "trans": [
+      "n.蔬菜"
+    ],
+    "usphone": "ˈvedʒtəbl",
+    "ukphone": "ˈvedʒtəbl"
+  },
+  {
+    "name": "rice",
+    "trans": [
+      "n.大米"
+    ],
+    "usphone": "raɪs",
+    "ukphone": "raɪs"
+  },
+  {
+    "name": "celebrate",
+    "trans": [
+      "v.庆祝；庆贺"
+    ],
+    "usphone": "ˈselɪbreɪt",
+    "ukphone": "ˈselɪbreɪt"
+  },
+  {
+    "name": "double",
+    "trans": [
+      "adj.成双的；两倍的"
+    ],
+    "usphone": "ˈdʌbl",
+    "ukphone": "ˈdʌbl"
+  },
+  {
+    "name": "ninth",
+    "trans": [
+      "ordinalnum.第九"
+    ],
+    "usphone": "naɪnθ",
+    "ukphone": "naɪnθ"
+  },
+  {
+    "name": "festival",
+    "trans": [
+      "n.节日；节"
+    ],
+    "usphone": "ˈfestɪvl",
+    "ukphone": "ˈfestɪvl"
+  },
+  {
+    "name": "tomb",
+    "trans": [
+      "n.坟墓"
+    ],
+    "usphone": "tuːm",
+    "ukphone": "tuːm"
+  },
+  {
+    "name": "sweep",
+    "trans": [
+      "v.，n.打扫，清扫"
+    ],
+    "usphone": "swiːp",
+    "ukphone": "swiːp"
+  },
+  {
+    "name": "dragon",
+    "trans": [
+      "n.龙"
+    ],
+    "usphone": "ˈdrægən",
+    "ukphone": "ˈdrægən"
+  },
+  {
+    "name": "lantern",
+    "trans": [
+      "n.灯笼"
+    ],
+    "usphone": "ˈlæntərn",
+    "ukphone": "ˈlæntən"
+  },
+  {
+    "name": "lunar",
+    "trans": [
+      "adj.月球的；月亮的"
+    ],
+    "usphone": "ˈluːnə(r)",
+    "ukphone": "ˈluːnə(r)"
+  },
+  {
+    "name": "August",
+    "trans": [
+      "n.八月"
+    ],
+    "usphone": "ˈɔːgəst",
+    "ukphone": "ˈɔːgəst"
+  },
+  {
+    "name": "mooncake",
+    "trans": [
+      "n.月饼"
+    ],
+    "usphone": "ˈmuːnkeɪk",
+    "ukphone": "ˈmuːnkeɪk"
+  },
+  {
+    "name": "moon",
+    "trans": [
+      "n.月亮；月球"
+    ],
+    "usphone": "muːn",
+    "ukphone": "muːn"
+  },
+  {
+    "name": "January",
+    "trans": [
+      "n.一月"
+    ],
+    "usphone": "ˈdʒænjueri",
+    "ukphone": "ˈdʒænjuəri"
+  },
+  {
+    "name": "lucky",
+    "trans": [
+      "adj.带来好运的；幸运的"
+    ],
+    "usphone": "ˈlʌki",
+    "ukphone": "ˈlʌki"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "n.钱币；钱；财产"
+    ],
+    "usphone": "ˈmʌni",
+    "ukphone": "ˈmʌni"
+  },
+  {
+    "name": "around",
+    "trans": [
+      "adv.大约；周围，四周；prep.围绕，环绕；在那边"
+    ],
+    "usphone": "əˈraʊnd",
+    "ukphone": "əˈraʊnd"
+  },
+  {
+    "name": "April",
+    "trans": [
+      "n.四月"
+    ],
+    "usphone": "ˈeɪprəl",
+    "ukphone": "ˈeɪprəl"
+  },
+  {
+    "name": "late",
+    "trans": [
+      "adj.已故的；迟到；近深夜的"
+    ],
+    "usphone": "leɪt",
+    "ukphone": "leɪt"
+  },
+  {
+    "name": "month",
+    "trans": [
+      "n.月；一个月的时间"
+    ],
+    "usphone": "mʌnθ",
+    "ukphone": "mʌnθ"
+  },
+  {
+    "name": "July",
+    "trans": [
+      "n.七月"
+    ],
+    "usphone": "dʒuˈlaɪ",
+    "ukphone": "dʒuˈlaɪ"
+  },
+  {
+    "name": "fifth",
+    "trans": [
+      "ordinalnum.第五"
+    ],
+    "usphone": "fɪfθ",
+    "ukphone": "fɪfθ"
+  },
+  {
+    "name": "labour",
+    "trans": [
+      "n.工人；劳动"
+    ],
+    "usphone": "ˈleɪbə(r)",
+    "ukphone": "ˈleɪbə(r)"
+  },
+  {
+    "name": "holiday",
+    "trans": [
+      "n.假期"
+    ],
+    "usphone": "ˈhɑːlədeɪ",
+    "ukphone": "ˈhɒlədeɪ"
+  },
+  {
+    "name": "buy",
+    "trans": [
+      "v.购买"
+    ],
+    "usphone": "baɪ",
+    "ukphone": "baɪ"
+  },
+  {
+    "name": "remember",
+    "trans": [
+      "v.纪念；记住；记起；记着"
+    ],
+    "usphone": "rɪˈmembə(r)",
+    "ukphone": "rɪˈmembə(r)"
+  },
+  {
+    "name": "thank",
+    "trans": [
+      "v.谢谢，感谢(某人)"
+    ],
+    "usphone": "θæŋk",
+    "ukphone": "θæŋk"
+  },
+  {
+    "name": "Christmas",
+    "trans": [
+      "n.圣诞节"
+    ],
+    "usphone": "ˈkrɪsməs",
+    "ukphone": "ˈkrɪsməs"
+  },
+  {
+    "name": "light",
+    "trans": [
+      "n.电灯；光线；光；v.点燃；adj.浅色的；轻便的"
+    ],
+    "usphone": "laɪt",
+    "ukphone": "laɪt"
+  },
+  {
+    "name": "paper",
+    "trans": [
+      "n.纸"
+    ],
+    "usphone": "ˈpeɪpə(r)",
+    "ukphone": "ˈpeɪpə(r)"
+  },
+  {
+    "name": "then",
+    "trans": [
+      "adv.然后；当时；那么"
+    ],
+    "usphone": "ðen",
+    "ukphone": "ðen"
+  },
+  {
+    "name": "present",
+    "trans": [
+      "n.礼物；adj.当前的"
+    ],
+    "usphone": "ˈpreznt",
+    "ukphone": "ˈpreznt"
+  },
+  {
+    "name": "Confucius",
+    "trans": [
+      "孔子"
+    ],
+    "usphone": "kənˈfjuːʃəs",
+    "ukphone": "kənˈfjuːʃəs"
+  },
+  {
+    "name": "thinker",
+    "trans": [
+      "n.思想家"
+    ],
+    "usphone": "ˈθɪŋkə(r)",
+    "ukphone": "ˈθɪŋkə(r)"
+  },
+  {
+    "name": "word",
+    "trans": [
+      "n.话语；词，字"
+    ],
+    "usphone": "wɜːrd",
+    "ukphone": "wɜːd"
+  },
+  {
+    "name": "another",
+    "trans": [
+      "det.，pron.又一"
+    ],
+    "usphone": "əˈnʌðə(r)",
+    "ukphone": "əˈnʌðə(r)"
+  },
+  {
+    "name": "September",
+    "trans": [
+      "n.九月"
+    ],
+    "usphone": "sepˈtembə(r)",
+    "ukphone": "sepˈtembə(r)"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "modalv.可以；应当"
+    ],
+    "usphone": "ʃʊd",
+    "ukphone": "ʃʊd"
+  },
+  {
+    "name": "couplet",
+    "trans": [
+      "n.对联"
+    ],
+    "usphone": "ˈkʌplət",
+    "ukphone": "ˈkʌplət"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "det.最后的；最近的；v.持续；adv.最终"
+    ],
+    "usphone": "læst",
+    "ukphone": "lɑːst"
+  },
+  {
+    "name": "celebration",
+    "trans": [
+      "n.庆祝活动；庆祝"
+    ],
+    "usphone": "ˌselɪˈbreɪʃn",
+    "ukphone": "ˌselɪˈbreɪʃn"
+  },
+  {
+    "name": "kitchen",
+    "trans": [
+      "n.厨房"
+    ],
+    "usphone": "ˈkɪtʃɪn",
+    "ukphone": "ˈkɪtʃɪn"
+  },
+  {
+    "name": "delicious",
+    "trans": [
+      "adj.美味的，可口的"
+    ],
+    "usphone": "dɪˈlɪʃəs",
+    "ukphone": "dɪˈlɪʃəs"
+  },
+  {
+    "name": "meal",
+    "trans": [
+      "n.一顿饭"
+    ],
+    "usphone": "miːl",
+    "ukphone": "miːl"
+  },
+  {
+    "name": "finally",
+    "trans": [
+      "adv.最后；最终"
+    ],
+    "usphone": "ˈfaɪnəli",
+    "ukphone": "ˈfaɪnəli"
+  },
+  {
+    "name": "excited",
+    "trans": [
+      "adj.激动的；兴奋的"
+    ],
+    "usphone": "ɪkˈsaɪtɪd",
+    "ukphone": "ɪkˈsaɪtɪd"
+  },
+  {
+    "name": "author",
+    "trans": [
+      "n.著者；作者；作家"
+    ],
+    "usphone": "ˈɔːθə(r)",
+    "ukphone": "ˈɔːθə(r)"
+  },
+  {
+    "name": "thirteenth",
+    "trans": [
+      "ordinalnum.第十三"
+    ],
+    "usphone": "ˌθɜːrˈtiːnθ",
+    "ukphone": "ˌθɜːˈtiːnθ"
+  },
+  {
+    "name": "birthday",
+    "trans": [
+      "n.生日"
+    ],
+    "usphone": "ˈbɜːrθdeɪ",
+    "ukphone": "ˈbɜːθdeɪ"
+  },
+  {
+    "name": "hundred",
+    "trans": [
+      "num.一百"
+    ],
+    "usphone": "ˈhʌndrəd",
+    "ukphone": "ˈhʌndrəd"
+  },
+  {
+    "name": "second",
+    "trans": [
+      "ordinalnum.，det.第二；n.秒"
+    ],
+    "usphone": "ˈsekənd",
+    "ukphone": "ˈsekənd"
+  },
+  {
+    "name": "third",
+    "trans": [
+      "ordinalnum.第三"
+    ],
+    "usphone": "θɜːrd",
+    "ukphone": "θɜːd"
+  },
+  {
+    "name": "nine",
+    "trans": [
+      "num.九"
+    ],
+    "usphone": "naɪn",
+    "ukphone": "naɪn"
+  },
+  {
+    "name": "twelfth",
+    "trans": [
+      "ordinalnum.第十二"
+    ],
+    "usphone": "twelfθ",
+    "ukphone": "twelfθ"
+  },
+  {
+    "name": "twentieth",
+    "trans": [
+      "ordinalnum.第二十"
+    ],
+    "usphone": "ˈtwentiəθ",
+    "ukphone": "ˈtwentiəθ"
+  },
+  {
+    "name": "forty",
+    "trans": [
+      "num.四十"
+    ],
+    "usphone": "ˈfɔːrti",
+    "ukphone": "ˈfɔːti"
+  },
+  {
+    "name": "fortieth",
+    "trans": [
+      "ordinalnum.第四十"
+    ],
+    "usphone": "ˈfɔːrtiəθ",
+    "ukphone": "ˈfɔːtiəθ"
+  },
+  {
+    "name": "fifty",
+    "trans": [
+      "num.五十"
+    ],
+    "usphone": "ˈfɪfti",
+    "ukphone": "ˈfɪfti"
+  },
+  {
+    "name": "ninety",
+    "trans": [
+      "num.九十"
+    ],
+    "usphone": "ˈnaɪnti",
+    "ukphone": "ˈnaɪnti"
+  },
+  {
+    "name": "fourth",
+    "trans": [
+      "ordinalnum.第四"
+    ],
+    "usphone": "fɔːrθ",
+    "ukphone": "fɔːθ"
+  },
+  {
+    "name": "themselves",
+    "trans": [
+      "pron.他们自己；她们自己；它们自己"
+    ],
+    "usphone": "ðəmˈselvz",
+    "ukphone": "ðəmˈselvz"
+  },
+  {
+    "name": "hang",
+    "trans": [
+      "v.悬挂；吊"
+    ],
+    "usphone": "hæŋ",
+    "ukphone": "hæŋ"
+  },
+  {
+    "name": "date",
+    "trans": [
+      "n.日期"
+    ],
+    "usphone": "deɪt",
+    "ukphone": "deɪt"
+  },
+  {
+    "name": "October",
+    "trans": [
+      "n.十月"
+    ],
+    "usphone": "ɑːkˈtəʊbər",
+    "ukphone": "ɒkˈtəʊbə(r)"
+  },
+  {
+    "name": "square",
+    "trans": [
+      "n.广场；正方形；adj.正方形的"
+    ],
+    "usphone": "skwer",
+    "ukphone": "skweə(r)"
+  },
+  {
+    "name": "street",
+    "trans": [
+      "n.街道"
+    ],
+    "usphone": "striːt",
+    "ukphone": "striːt"
+  },
+  {
+    "name": "prepare",
+    "trans": [
+      "v.使做好准备；做(饭)"
+    ],
+    "usphone": "prɪˈper",
+    "ukphone": "prɪˈpeə(r)"
+  },
+  {
+    "name": "guess",
+    "trans": [
+      "v.猜测；猜到；以为"
+    ],
+    "usphone": "ges",
+    "ukphone": "ges"
+  },
+  {
+    "name": "riddle",
+    "trans": [
+      "n.谜；谜语"
+    ],
+    "usphone": "ˈrɪdl",
+    "ukphone": "ˈrɪdl"
+  },
+  {
+    "name": "lastly",
+    "trans": [
+      "adv.最后一点；最后"
+    ],
+    "usphone": "ˈlæstli",
+    "ukphone": "ˈlɑːstli"
+  },
+  {
+    "name": "poster",
+    "trans": [
+      "n.海报；招贴画"
+    ],
+    "usphone": "ˈpəʊstə(r)",
+    "ukphone": "ˈpəʊstə(r)"
+  },
+  {
+    "name": "traditional",
+    "trans": [
+      "adj.传统的"
+    ],
+    "usphone": "trəˈdɪʃənl",
+    "ukphone": "trəˈdɪʃənl"
+  },
+  {
+    "name": "February",
+    "trans": [
+      "n.二月"
+    ],
+    "usphone": "ˈfebrueri",
+    "ukphone": "ˈfebruəri"
+  },
+  {
+    "name": "March",
+    "trans": [
+      "n.三月"
+    ],
+    "usphone": "mɑːrtʃ",
+    "ukphone": "mɑːtʃ"
+  },
+  {
+    "name": "republic",
+    "trans": [
+      "n.共和国"
+    ],
+    "usphone": "rɪˈpʌblɪk",
+    "ukphone": "rɪˈpʌblɪk"
+  },
+  {
+    "name": "Sunday",
+    "trans": [
+      "n.星期日"
+    ],
+    "usphone": "ˈsʌndeɪ;ˈsʌndi",
+    "ukphone": "ˈsʌndeɪ;ˈsʌndi"
+  },
+  {
+    "name": "cake",
+    "trans": [
+      "n.糕饼；蛋糕"
+    ],
+    "usphone": "keɪk",
+    "ukphone": "keɪk"
+  },
+  {
+    "name": "calendar",
+    "trans": [
+      "n.日历"
+    ],
+    "usphone": "ˈkælɪndə(r)",
+    "ukphone": "ˈkælɪndə(r)"
+  },
+  {
+    "name": "wonderful",
+    "trans": [
+      "adj.精彩的；绝妙的"
+    ],
+    "usphone": "ˈwʌndərfl",
+    "ukphone": "ˈwʌndəfl"
+  },
+  {
+    "name": "December",
+    "trans": [
+      "n.十二月"
+    ],
+    "usphone": "dɪˈsembə(r)",
+    "ukphone": "dɪˈsembə(r)"
+  },
+  {
+    "name": "midnight",
+    "trans": [
+      "n.午夜"
+    ],
+    "usphone": "ˈmɪdnaɪt",
+    "ukphone": "ˈmɪdnaɪt"
+  },
+  {
+    "name": "bell",
+    "trans": [
+      "n.钟(声)；铃(声)"
+    ],
+    "usphone": "bel",
+    "ukphone": "bel"
+  },
+  {
+    "name": "ring",
+    "trans": [
+      "v.(使)发出钟声；n.钟声；指环"
+    ],
+    "usphone": "rɪŋ",
+    "ukphone": "rɪŋ"
+  },
+  {
+    "name": "say",
+    "trans": [
+      "v.说；指示"
+    ],
+    "usphone": "seɪ",
+    "ukphone": "seɪ"
+  },
+  {
+    "name": "luck",
+    "trans": [
+      "n.运气；好运"
+    ],
+    "usphone": "lʌk",
+    "ukphone": "lʌk"
+  },
+  {
+    "name": "idea",
+    "trans": [
+      "n.想法；主意典(第10版)》标注。"
+    ],
+    "usphone": "aɪˈdiːə",
+    "ukphone": "aɪˈdɪə"
+  }
+]

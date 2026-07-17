@@ -17,7 +17,7 @@ const Analysis = () => {
   const [, setIsOpenDarkMode] = useAtom(isOpenDarkModeAtom)
 
   const onBack = useCallback(() => {
-    navigate('/')
+    navigate('/practice')
   }, [navigate])
 
   const changeDarkModeState = () => {

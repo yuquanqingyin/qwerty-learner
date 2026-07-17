@@ -34,12 +34,12 @@ export function generateWordSoundSrc(word: string, pronunciation: Exclude<Pronun
   }
 }
 
-export default function usePronunciationSound(word: string, isLoop?: boolean) {
+export default function usePronunciationSound(word: string, isLoop?: boolean, pronunciationType?: PronunciationType) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
   const loop = useMemo(() => (typeof isLoop === 'boolean' ? isLoop : pronunciationConfig.isLoop), [isLoop, pronunciationConfig.isLoop])
   const [isPlaying, setIsPlaying] = useState(false)
 
-  const [play, { stop, sound }] = useSound(generateWordSoundSrc(word, pronunciationConfig.type), {
+  const [play, { stop, sound }] = useSound(generateWordSoundSrc(word, pronunciationType ?? pronunciationConfig.type), {
     html5: true,
     format: ['mp3'],
     loop,

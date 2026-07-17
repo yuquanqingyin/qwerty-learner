@@ -13,6 +13,7 @@ import { TypingContext, TypingStateActionType, initialState, typingReducer } fro
 import { DonateCard } from '@/components/DonateCard'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
+import { DEFAULT_DICTIONARY_ID } from '@/constants'
 import { idDictionaryMap } from '@/resources/dictionary'
 import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
 import { IsDesktop, isLegal } from '@/utils'
@@ -21,7 +22,9 @@ import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
 import { useAtom, useAtomValue, useSetAtom } from 'jotai'
 import type React from 'react'
 import { useCallback, useEffect, useState } from 'react'
+import { NavLink } from 'react-router-dom'
 import { useImmerReducer } from 'use-immer'
+import IconArrowLeft from '~icons/tabler/arrow-left'
 
 const App: React.FC = () => {
   const [state, dispatch] = useImmerReducer(typingReducer, structuredClone(initialState))
@@ -52,7 +55,7 @@ const App: React.FC = () => {
   useEffect(() => {
     const id = currentDictId
     if (!(id in idDictionaryMap)) {
-      setCurrentDictId('cet4')
+      setCurrentDictId(DEFAULT_DICTIONARY_ID)
       setCurrentChapter(0)
       return
     }
@@ -132,6 +135,15 @@ const App: React.FC = () => {
       {state.isFinished && <ResultScreen />}
       <Layout>
         <Header>
+          <Tooltip content="返回功能选择">
+            <NavLink
+              to="/"
+              className="flex min-h-[2.75rem] touch-manipulation items-center gap-2 rounded-lg bg-indigo-500 px-4 py-2 text-base font-medium text-white transition-colors hover:bg-indigo-600"
+            >
+              <IconArrowLeft className="h-5 w-5" />
+              返回首页
+            </NavLink>
+          </Tooltip>
           <DictChapterButton />
           <PronunciationSwitcher />
           <Switcher />

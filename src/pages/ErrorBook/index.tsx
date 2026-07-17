@@ -25,7 +25,7 @@ export function ErrorBook() {
   const [reload, setReload] = useState(false)
 
   const onBack = useCallback(() => {
-    navigate('/')
+    navigate('/practice')
   }, [navigate])
 
   const setPage = useCallback(

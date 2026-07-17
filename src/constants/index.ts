@@ -2,6 +2,10 @@ export const EXPLICIT_SPACE = '␣'
 
 export const CHAPTER_LENGTH = 20
 
+/** Add another dictionary id here when a new textbook is ready for students. */
+export const ENABLED_DICTIONARY_IDS = ['english-grade7-1-2022', 'english-grade7-2-2022'] as const
+export const DEFAULT_DICTIONARY_ID = ENABLED_DICTIONARY_IDS[0]
+
 export const DISMISS_START_CARD_DATE_KEY = 'dismissStartCardDate'
 
 export const DONATE_DATE = 'donateDate'

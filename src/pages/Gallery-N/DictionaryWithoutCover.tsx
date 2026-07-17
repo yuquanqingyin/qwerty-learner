@@ -6,7 +6,6 @@ import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/comp
 import useIntersectionObserver from '@/hooks/useIntersectionObserver'
 import { currentDictIdAtom } from '@/store'
 import type { Dictionary } from '@/typings'
-import { calcChapterCount } from '@/utils'
 import * as Progress from '@radix-ui/react-progress'
 import { useAtomValue } from 'jotai'
 import { useMemo, useRef } from 'react'
@@ -22,7 +21,7 @@ export default function DictionaryComponent({ dictionary }: Props) {
   const entry = useIntersectionObserver(divRef, {})
   const isVisible = !!entry?.isIntersecting
   const dictStats = useDictStats(dictionary.id, isVisible)
-  const chapterCount = useMemo(() => calcChapterCount(dictionary.length), [dictionary.length])
+  const chapterCount = dictionary.chapterCount
   const isSelected = currentDictID === dictionary.id
   const progress = useMemo(
     () => (dictStats ? Math.ceil((dictStats.exercisedChapterCount / chapterCount) * 100) : 0),
@@ -34,7 +33,7 @@ export default function DictionaryComponent({ dictionary }: Props) {
       <DialogTrigger asChild>
         <div
           ref={divRef}
-          className={`group flex  h-36 w-80 cursor-pointer items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none ${
+          className={`group flex h-36 w-full max-w-80 cursor-pointer touch-manipulation items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none focus-visible:ring-4 focus-visible:ring-indigo-200 ${
             isSelected ? 'bg-indigo-400' : 'bg-zinc-50 hover:bg-white dark:bg-gray-800 dark:hover:bg-gray-700'
           }`}
           role="button"
@@ -84,7 +83,7 @@ export default function DictionaryComponent({ dictionary }: Props) {
           </div>
         </div>
       </DialogTrigger>
-      <DialogContent className="w-[60rem] max-w-none !rounded-[20px]">
+      <DialogContent className="max-h-[calc(100vh-2rem)] w-[calc(100vw-2rem)] max-w-5xl overflow-y-auto !rounded-[20px]">
         <DictDetail dictionary={dictionary} />
       </DialogContent>
     </Dialog>

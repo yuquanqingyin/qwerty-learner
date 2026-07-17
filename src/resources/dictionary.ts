@@ -1,3 +1,4 @@
+import { ENABLED_DICTIONARY_IDS } from '@/constants'
 import type { Dictionary, DictionaryResource } from '@/typings/index'
 import { calcChapterCount } from '@/utils'
 
@@ -2006,6 +2007,44 @@ const childrenEnglish: DictionaryResource[] = [
     length: 41,
     language: 'en',
     languageCategory: 'en',
+  },
+  {
+    id: 'english-grade7-1-2022',
+    name: '七上英语（2022课标）',
+    description: '义务教育教科书 英语七年级上册（根据2022年版课程标准修订）',
+    category: '青少年英语',
+    tags: ['初中', '2022课标'],
+    url: '/dicts/Textbook_English_Grade7_1_2022.json',
+    length: 601,
+    language: 'en',
+    languageCategory: 'en',
+    chapters: [
+      { name: 'Unit 1', start: 0, end: 139 },
+      { name: 'Unit 2', start: 139, end: 250 },
+      { name: 'Unit 3', start: 250, end: 359 },
+      { name: 'Unit 4', start: 359, end: 436 },
+      { name: 'Unit 5', start: 436, end: 516 },
+      { name: 'Unit 6', start: 516, end: 601 },
+    ],
+  },
+  {
+    id: 'english-grade7-2-2022',
+    name: '七下英语（2022课标）',
+    description: '义务教育教科书 英语七年级下册（根据2022年版课程标准修订）',
+    category: '青少年英语',
+    tags: ['初中', '2022课标'],
+    url: '/dicts/Textbook_English_Grade7_2_2022.json',
+    length: 424,
+    language: 'en',
+    languageCategory: 'en',
+    chapters: [
+      { name: 'Unit 7', start: 0, end: 91 },
+      { name: 'Unit 8', start: 91, end: 172 },
+      { name: 'Unit 9', start: 172, end: 254 },
+      { name: 'Unit 10', start: 254, end: 309 },
+      { name: 'Unit 11', start: 309, end: 370 },
+      { name: 'Unit 12', start: 370, end: 424 },
+    ],
   },
   {
     id: 'qi1',
@@ -4156,10 +4195,10 @@ const indonesianDicts: DictionaryResource[] = [
 ]
 
 /**
- * Built-in dictionaries in an array.
- * Why arrays? Because it keeps the order across browsers.
+ * All dictionaries supplied by the upstream project. Keep them here so that a
+ * new textbook can be enabled later without restoring its metadata.
  */
-export const dictionaryResources: DictionaryResource[] = [
+const allDictionaryResources: DictionaryResource[] = [
   ...chinaExam,
   ...internationalExam,
   ...childrenEnglish,
@@ -4189,9 +4228,13 @@ export const dictionaryResources: DictionaryResource[] = [
   // },
 ]
 
+export const dictionaryResources: DictionaryResource[] = allDictionaryResources.filter((dictionary) =>
+  ENABLED_DICTIONARY_IDS.some((id) => id === dictionary.id),
+)
+
 export const dictionaries: Dictionary[] = dictionaryResources.map((resource) => ({
   ...resource,
-  chapterCount: calcChapterCount(resource.length),
+  chapterCount: resource.chapters?.length ?? calcChapterCount(resource.length),
 }))
 
 /**

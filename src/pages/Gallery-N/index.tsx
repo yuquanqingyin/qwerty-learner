@@ -1,6 +1,4 @@
 import DictionaryGroup from './CategoryDicts'
-import DictRequest from './DictRequest'
-import { LanguageTabSwitcher } from './LanguageTabSwitcher'
 import Layout from '@/components/Layout'
 import { dictionaries } from '@/resources/dictionary'
 import { currentDictInfoAtom } from '@/store'
@@ -47,7 +45,7 @@ export default function GalleryPage() {
   }, [galleryState.currentLanguageTab])
 
   const onBack = useCallback(() => {
-    navigate('/')
+    navigate('/practice')
   }, [navigate])
 
   useHotkeys('enter,esc', onBack, { preventDefault: true })
@@ -63,17 +61,28 @@ export default function GalleryPage() {
   return (
     <Layout>
       <GalleryContext.Provider value={{ state: galleryState, setState: setGalleryState }}>
-        <div className="relative mb-auto mt-auto flex w-full flex-1 flex-col overflow-y-auto pl-20">
-          <IconX className="absolute right-20 top-10 mr-2 h-7 w-7 cursor-pointer text-gray-400" onClick={onBack} />
+        <div className="relative mb-auto mt-auto flex w-full flex-1 flex-col overflow-y-auto px-4 sm:px-8 lg:pl-20">
+          <button
+            type="button"
+            aria-label="返回练习"
+            className="absolute right-3 top-3 z-10 flex h-12 w-12 touch-manipulation items-center justify-center rounded-full text-gray-400 focus:outline-none focus-visible:ring-4 focus-visible:ring-indigo-200 sm:right-8 sm:top-6"
+            onClick={onBack}
+          >
+            <IconX className="h-7 w-7" />
+          </button>
           <div className="mt-20 flex w-full flex-1 flex-col items-center justify-center overflow-y-auto">
             <div className="flex h-full flex-col overflow-y-auto">
-              <div className="flex h-20 w-full items-center justify-between pb-6 pr-20">
-                <LanguageTabSwitcher />
-                <DictRequest />
+              <div className="flex min-h-[5rem] w-full items-center pb-6 pr-14 sm:pr-20">
+                <div>
+                  <h1 className="text-2xl font-semibold text-slate-800 dark:text-white">选择练习单元</h1>
+                  <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">
+                    目前已开放 {dictionaries.length} 本初中英语词书，可按教材标签切换。
+                  </p>
+                </div>
               </div>
               <ScrollArea.Root className="flex-1 overflow-y-auto">
                 <ScrollArea.Viewport className="h-full w-full ">
-                  <div className="mr-4 flex flex-1 flex-col items-start justify-start gap-14 overflow-y-auto">
+                  <div className="flex flex-1 flex-col items-start justify-start gap-14 overflow-y-auto pr-2 sm:pr-4">
                     {groupedByCategoryAndTag.map(([category, groupeByTag]) => (
                       <DictionaryGroup key={category} groupedDictsByTag={groupeByTag} />
                     ))}
