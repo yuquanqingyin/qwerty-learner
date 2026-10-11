@@ -79,7 +79,7 @@ export default function DictationSession({ config, words, onCancel, onComplete }
   const progress = ((currentIndex + 1) / words.length) * 100
 
   return (
-    <div className="w-full max-w-3xl rounded-3xl bg-white p-8 shadow-xl dark:bg-gray-800">
+    <div className="w-full max-w-4xl rounded-3xl bg-white p-6 shadow-xl dark:bg-gray-800 sm:p-8">
       <div className="flex items-center justify-between text-sm text-slate-500 dark:text-slate-400">
         <span>
           {config.dictionary.name} · {getDictionaryChapterName(config.dictionary, config.chapter)}
@@ -96,7 +96,7 @@ export default function DictationSession({ config, words, onCancel, onComplete }
         第 {currentIndex + 1} / {words.length} 题
       </p>
 
-      <div className="flex min-h-64 flex-col items-center justify-center py-8">
+      <div className="flex min-h-72 flex-col items-center justify-center py-8 sm:min-h-96 sm:py-10">
         <button
           type="button"
           onClick={() => play()}
@@ -105,9 +105,13 @@ export default function DictationSession({ config, words, onCancel, onComplete }
           {isPlaying ? '正在播放…' : '重播发音（Ctrl + J）'}
         </button>
 
-        {config.showPhonetic && phonetic && <p className="mt-7 text-lg text-slate-500 dark:text-slate-300">[{phonetic}]</p>}
+        {config.showPhonetic && phonetic && (
+          <p className="mt-8 text-center font-mono text-3xl font-semibold tracking-wide text-slate-700 dark:text-slate-100 sm:text-4xl">
+            [{phonetic}]
+          </p>
+        )}
         {config.showTranslation && (
-          <p className="mt-5 max-w-2xl text-center text-base leading-7 text-slate-600 dark:text-slate-300">
+          <p className="mt-7 max-w-3xl text-center text-2xl font-semibold leading-relaxed text-slate-800 dark:text-white sm:text-3xl sm:leading-relaxed">
             {currentWord.trans.join('；') || '暂无释义'}
           </p>
         )}
